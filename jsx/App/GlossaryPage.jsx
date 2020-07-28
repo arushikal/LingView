@@ -2,7 +2,7 @@ import React from 'react';
 
 export function GlossaryPage() {
   return (
-      <div>
+      <div style={{margin: "1in"}}>
 <table>
 <tr>
 <th>
@@ -1684,7 +1684,7 @@ derivational
 nominalizing subordinator
 </td>
 <td>
-NR, SR
+NR, SR, SUB
 </td>
 </tr>
 <tr>
