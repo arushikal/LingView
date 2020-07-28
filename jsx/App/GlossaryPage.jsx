@@ -1684,10 +1684,7 @@ derivational
 nominalizing subordinator
 </td>
 <td>
-NR
-</td>
-<td>
-SR
+NR, SR
 </td>
 </tr>
 <tr>
