@@ -25,7 +25,7 @@ F&amp;H
 <td>
 1
 </td>
-<td>
+<td style={{fontStyle: "italic"}}>
 =ngi
 </td>
 <td>
@@ -42,7 +42,7 @@ first person subject
 <td>
 1.PL
 </td>
-<td>
+<td style={{fontStyle: "italic"}}>
 ingi
 </td>
 <td>
@@ -61,7 +61,7 @@ first person plural
 <td>
 1.SG
 </td>
-<td>
+<td style={{fontStyle: "italic"}}>
 ña
 </td>
 <td>
@@ -80,7 +80,7 @@ first person singular
 <td>
 2
 </td>
-<td>
+<td style={{fontStyle: "italic"}}>
 =ki
 </td>
 <td>
