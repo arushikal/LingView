@@ -36,7 +36,7 @@ export function AboutPage() {
 			<p>ALDP came about as a collaboration between Scott AnderBois, a professor at Brown University, and Hugo Lucitante, a native speaker of A’ingae from Zábalo who did his BA at Brown from 2015-2019 (currently a PhD student in Anthropology at the University of Texas at San Antonio). Through thinking about the importance of his language both through his coursework as well as in conversations outside the classroom, Hugo recognized the need for community-engaged language documentation. Together with Wilson Silva, a professor at the University of Arizona, the ALDP was born.</p>
 			<p>Our project aims to document the A’ingae language, investigate scientific questions about its grammar and usage, and to promote community capacity building in service of the production of community-oriented materials.</p>
 
-			<p>In addition to being available on this via the Texts tab at the top, primary language materials are also archived at the California Language Archive at UC Berkeley and the <a href="https://elar.soas.ac.uk/Collection/MPI1079687">Endangered Languages Archive</a> at SOAS.</p>
+			<p>In addition to being available via the Texts tab at the top, primary language materials are also archived at the California Language Archive at UC Berkeley and the <a href="https://elar.soas.ac.uk/Collection/MPI1079687">Endangered Languages Archive</a> at SOAS.</p>
 
 
 			<h4>Funding</h4>
@@ -176,7 +176,7 @@ export function AboutPage() {
 
 			<p>Nuestro proyecto tiene como objetivo documentar el lenguaje a’ingae, investigar cuestiones científicas sobre su gramática y su uso, y promover el desarrollo de capacidad comunitaria en  nombre de producir material que sea orientado a la comunidad.</p>
 
-			<p>[In 2019, ALDP received a National Science Foundation grant (<span style={{fontFamily: "monospace"}}>#1911348</span>) for the research project <i>Perspective taking and reported speech in an evidentially-rich language</i>, in order to specifically investigate the grammar of reported speech in the language, including the language’s unique use of falsetto realized on a single syllable to signal perspective shifts in narrative. For more information on the NSF grant, see <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1911348&HistoricalAwards=false">here</a>.]</p>
+			<p>Además de estar disponibles a través de la pestaña de Texts en la parte superior, los materiales primarios del idioma también están archivados en California Language Archive en UC Berkeley y <a href="https://elar.soas.ac.uk/Collection/MPI1079687">Endangered Languages Archive</a> en SOAS.</p>
 
 
 
