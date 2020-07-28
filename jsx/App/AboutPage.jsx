@@ -57,74 +57,63 @@ export function AboutPage() {
 			<p>Hugo Lucitante is a PhD student in Anthropology at UT San Antonio and a Brown University graduate from Zábalo, a small Cofán community in Ecuador. He received the Royce Fellowship in 2016 and developed the. Hugo's work was immensely important in starting this project.</p>
 
 			<p style={{marginBottom: ".5em"}}><b>Sadie Lucitante</b></p>
-
 			<p style={{marginBottom: ".5em"}}><b>Shen Aguinda</b></p>
-
 			<p style={{marginBottom: ".5em"}}><b>Leidy Quenamá</b></p>
-
 			<p style={{marginBottom: ".5em"}}><b>Jorge Mendua</b></p>
 
 
 			<h4>Other outside collaborators</h4>
 
-			<p><b>Chelsea Sanker, PhD</b><br />
+			<p style={{marginBottom: ".5em"}}><b>Chelsea Sanker, PhD</b><br />
 			<a href="https://www.chelseasanker.com/">chelseasanker.com</a><br />
 			chelsea.sanker at yale.edu</p>
 			<p>Chelsea Sanker is a lecturer at Yale University. Her research focuses on synchronic patterns of details in perception and production, and reconstructions of how shifts in cue usage can lead to diachronic change.</p>
 
-			<p><b>Nick Emlen, PhD</b><br />
+			<p style={{marginBottom: ".5em"}}><b>Nick Emlen, PhD</b><br />
 			n.q.emlen at hum.leidenuniv.nl</p>
 			<p>Nick Emlen is a postdoc at Leiden University. He studies linguistic, social, economic, and historical relationships that link the Andes and Amazonia, and is currently a part of the Linguistic Past of Mesoamerica and the Andes project.</p>
 
-			<p><b>Irina Wang, MID</b><br />
+			<p style={{marginBottom: ".5em"}}><b>Irina Wang, MID</b><br />
 			<a href="https://irinavw.xyz/">irinavw.xyz</a><br />
 			hello at irinawang.com</p>
 			<p>Irina is a designer and writer that has combined an interest in typography, literature, and environmental theory to design alongside native communities and academic linguists to revitalize endangered languages such as Marma (Chittagong Hill Tracts), Unangam Tunuu (Aleutian Islands), and A’ingae (Sucumbíos Province). Recognizing that language justice, environmental justice, and social justice are one demand arising from structural issues, she pursued a Master of Industrial Design at RISD to develop transdisciplinary approaches for ethical and urgent systems-shifting. She currently practices as Entropy Studio, where she works on and writes about design philosophy, nuclear non-proliferation, language sovereignty, energy democracy, agricultural carbon sequestration, circular food systems, urban air mobility, and post-growth governance.</p>
 
-			<h5></h5>
-			<p></p>
-
-			<h5></h5>
-			<p></p>
-
-			<h5></h5>
-			<p></p>
 
 
-			<h4>Lead research assistant</h4>
+			<h3>Lead research assistant</h3>
 
-			<h5>Maksymilian Dąbkowski</h5>
-			<p><a href="https://maksymilian-dabkowski.github.io/">maksymilian-dabkowski.github.io</a><br />
+			<p style={{marginBottom: ".5em"}}><b>Maksymilian Dąbkowski</b><br />
+			<a href="https://maksymilian-dabkowski.github.io/">maksymilian-dabkowski.github.io</a><br />
 			maksymilian.michal.dabkowski at gmail.com</p>
 			<p></p>
 
 
-			<h4>Current undergraduates</h4>
+			<h3>Current undergraduates</h3>
 
-			<h5>Valerie Aguilar Dellisanti</h5>
-			<h5>Corrin Anderer</h5>
-			<h5>Atabong Khumbah</h5>
-			<h5>Bryce Massey</h5>
-			<h5>Alexis Roman</h5>
-			<h5>Jack Walker</h5>
+			<p style={{marginBottom: ".5em"}}><b>Valerie Aguilar Dellisanti</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Corrin Anderer</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Atabong Khumbah</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Bryce Massey</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Alexis Roman</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Jack Walker</b></p>
 
 
 			<h4>Former undergraduates</h4>
 
-			<b>Justin Bai<br />
-			Rocket Drew<br />
-			Amyra Durkin<br />
-			Zackary Entwistle<br />
-			Sandy Greenberg<br />
-			Rachel Gutman<br />
-			Sabrina Morvillo<br />
-			Thomas Ottaway<br />
-			Ethan Pan<br />
-			Kalinda Pride<br />
-			Chiara Repetti-Ludlow<br />
-			Nicholas Tomlin<br />
-			Haoru Zhang<br />
-			Jacob Zimmerman</b>
+			<p style={{marginBottom: ".5em"}}><b>Justin Bai</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Rocket Drew</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Amyra Durkin</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Zackary Entwistle</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Sandy Greenberg</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Rachel Gutman</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Sabrina Morvillo</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Thomas Ottaway</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Ethan Pan</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Kalinda Pride</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Chiara Repetti-Ludlow</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Nicholas Tomlin</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Haoru Zhang</b></p>
+			<p style={{marginBottom: ".5em"}}><b>Jacob Zimmerman</b></p>
 
 
 
