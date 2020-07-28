@@ -73,12 +73,12 @@ export function AboutPage() {
 			<p>Chelsea Sanker is a lecturer at Yale University. Her research focuses on synchronic patterns of details in perception and production, and reconstructions of how shifts in cue usage can lead to diachronic change.</p>
 
 			<h4>Nick Emlen, PhD</h4>
-			<p><a href="mailto:n.q.emlen@hum.leidenuniv.nl">n.q.emlen@hum.leidenuniv.nl</a></p>
+			<p>n.q.emlen at hum.leidenuniv.nl</p>
 			<p>Nick Emlen is a postdoc at Leiden University. He studies linguistic, social, economic, and historical relationships that link the Andes and Amazonia, and is currently a part of the Linguistic Past of Mesoamerica and the Andes project.</p>
 
 			<h4></h4>
 			<p><a href="https://irinavw.xyz/">irinavw.xyz</a><br />
-			<a href="mailto:hello@irinawang.com">hello@irinawang.com</a></p>
+			hello at irinawang.com</p>
 			<p>Irina is a designer and writer that has combined an interest in typography, literature, and environmental theory to design alongside native communities and academic linguists to revitalize endangered languages such as Marma (Chittagong Hill Tracts), Unangam Tunuu (Aleutian Islands), and A’ingae (Sucumbíos Province). Recognizing that language justice, environmental justice, and social justice are one demand arising from structural issues, she pursued a Master of Industrial Design at RISD to develop transdisciplinary approaches for ethical and urgent systems-shifting. She currently practices as Entropy Studio, where she works on and writes about design philosophy, nuclear non-proliferation, language sovereignty, energy democracy, agricultural carbon sequestration, circular food systems, urban air mobility, and post-growth governance.</p>
 
 			<h4></h4>
@@ -93,28 +93,62 @@ export function AboutPage() {
 
 			<h3>Lead research assistant</h3>
 
-			<h4></h4>
+			<h4>Maksymilian Dąbkowski</h4>
+			<p><a href="https://maksymilian-dabkowski.github.io/">maksymilian-dabkowski.github.io</a><br />
+			maksymilian.michal.dabkowski at gmail.com</p>
 			<p></p>
 
 
 			<h3>Current undergraduates</h3>
 
+			<h4>Valerie Aguilar Dellisanti</h4>
+			<h4>Corrin Anderer</h4>
+			<h4>Atabong Khumbah</h4>
+			<h4>Bryce Massey</h4>
+			<h4>Alexis Roman</h4>
+			<h4>Jack Walker</h4>
+
 
 			<h3>Former undergraduates</h3>
+
+			<h4>Justin Bai</h4>
+			<h4>Rocket Drew</h4>
+			<h4>Amyra Durkin</h4>
+			<h4>Zackary Entwistle</h4>
+			<h4>Sandy Greenberg</h4>
+			<h4>Rachel Gutman</h4>
+			<h4>Sabrina Morvillo</h4>
+			<h4>Thomas Ottaway</h4>
+			<h4>Ethan Pan</h4>
+			<h4>Kalinda Pride</h4>
+			<h4>Chiara Repetti-Ludlow</h4>
+			<h4>Nicholas Tomlin</h4>
+			<h4>Haoru Zhang</h4>
+			<h4>Jacob Zimmerman</h4>
 
 
 
 			<h2>Funding</h2>
 
+			<p>In 2017, ALDP received funding from Endangered Language Documentation Programme (ELDP <span style={{fontFamily: "monospace"}}>#SG0481</span>, <i>Kofán Collaborative Project: Collection of Audio-Video Materials and Texts)</i>.</p>
+
+			<p>In the same year, ALDP (Kofán language documentation: building a multi-purpose text collection) received funding from Interdisciplinary Team (I-Team) UTRA, a Brown University program initiated by Brown faculty and executed by the Office of the Dean of the College. For more information on the I-Team UTRA program, see <a href="https://www.brown.edu/academics/college/fellowships/utra/types-utra-awards/interdisciplinary-team-i-team-utra">here</a>.</p>
+
+			<p>In 2019, ALDP received a National Science Foundation grant (<span style={{fontFamily: "monospace"}}>#1911348</span>) for the research project <i>Perspective taking and reported speech in an evidentially-rich language</i>, in order to specifically investigate the grammar of reported speech in the language, including the language’s unique use of falsetto realized on a single syllable to signal perspective shifts in narrative. For more information on the NSF grant, see <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1911348&HistoricalAwards=false">here</a>.</p>
+
 
 
 			<h2>Research output</h2>
+
+			<p>[This section will be completed in the coding phase]</p>
 
 
 
 			<h2>Publicity</h2>
 
-			<p></p>
+			<p><a href="https://www.browndailyherald.com/2019/02/20/professor-students-help-preserve-cofan-language/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrownDailyHerald+%28The+Brown+Daily+Herald+RSS%29">Professor, students help to preserve Cofán language | The Brown Daily Herald</a></p>
+
+			
 		</div>
   );
 }
