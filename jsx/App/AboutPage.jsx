@@ -50,11 +50,9 @@ export function AboutPage() {
 			<p>In 2019, Maksymilian Dąbkowski receieved the Royce Fellowship grant for project <i>A'ingae Language Preservation.</i> For more information on the Royce Fellowship grant, click <a href="https://www.brown.edu/academics/college/swearer/programs/royce-fellowship/48/fellows/maksymilian-d%C4%85bkowski">here</a>.</p>
 
 
-
 			<h4>Research output</h4>
 
 			<p>[This section will be completed in the coding phase]</p>
-
 
 
 			<h4>Publicity</h4>
@@ -111,7 +109,7 @@ export function AboutPage() {
 			<p style={{marginBottom: "-.7em"}}><b>Maksymilian Dąbkowski</b><br />
 			<a href="https://maksymilian-dabkowski.github.io/">maksymilian-dabkowski.github.io</a><br />
 			maksymilian.michal.dabkowski at gmail.com</p>
-			<p>Maksymilian is a linguistics lead research assistant at Brown University. He holds B.A. degrees in Linguistics and Logic from Brown University. He works predominantly on A'ingae, an Amazonian language isolate spoken in northeast Ecuador and southern Colombia. Maksymilian's research interests include phonology and its interfaces, semantics, language documentation, language revitalization, logic, and psycholinguistics.</p>
+			<p>Maksymilian is a linguistics lead research assistant at Brown University. He holds B.A. degrees in Linguistics and Logic from Brown University. He works predominantly on A'ingae. Maksymilian's research interests include phonology and its interfaces, semantics, language documentation, language revitalization, logic, and psycholinguistics.</p>
 
 
 			<h3>Current undergraduates</h3>
@@ -168,7 +166,7 @@ export function AboutPage() {
 
 			<p>A’ingae es un idioma amenazado con 2,000 hablantes en Ecuador y Colombia. Las fronteras nacionales se piensan ser demarcadores lingüísticas: de los dos dialectos principales, uno se habla a lo largo del Río Aguarico en Ecuador; el otro–a lo largo del Río San Miguel, el Río Guamués, y el Río Putumayo en Colombia. Ya que la población cofán se ha quintuplicado desde los años ‘60, y el a’ingae sigue siendo usado, el idioma se clasifica como “en desarrollo”. En Ecuador, a’ingae es hablado extensamente (pero no universalmente entre registros) por gente de varios grupos sociales y dominios. La actitud hacia el lenguaje es positiva. Dentro de comunidades con influencias Kichwa y/o coloniales, especialmente en Colombia, el español u otras lenguas pueden ser más prominentes.</p>
 
-			<p>Una ortografía del lenguaje fue desarrollada por los misionarios del SIL, Marlytte y Roberta Borman, y recientemente fue revisada por miembros de la comunidad Cofán, lo cual seguimos actualmente. Nuestro equipo está en el proceso de conducir una encuesta sociolingüística para evaluar la vitalidad del idioma en su forma escrita y hablada entre diferentes contextos sociales.</p>
+			<p>Una ortografía del lenguaje fue desarrollada por los misionarios del SIL, Marlytte y Roberta Borman, y recientemente fue revisada por miembros de la comunidad cofán, lo cual seguimos actualmente. Nuestro equipo está en el proceso de conducir una encuesta sociolingüística para evaluar la vitalidad del idioma en su forma escrita y hablada entre diferentes contextos sociales.</p>
 
 
 
