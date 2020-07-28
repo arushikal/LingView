@@ -44,7 +44,7 @@ export function AboutPage() {
 			<h4>Scott anderBois</h4>
 			<p><a href="http://research.clps.brown.edu/anderbois/">research.clps.brown.edu/anderbois</a><br />
 			<a href="mailto:scott_anderbois@brown.edu">scott_anderbois@brown.edu</a></p>
-			<p>Scott is an Associate Professor in the Department of Cognitive, Linguistic, and Psychological Sciences (CLPS) at Brown University. His research is focused on issues in semantics and pragmatics, especially those concerning non-truth conditional meanings and the way they interact with sentence type. Beyond A’ingae, his work has explored these issues through primary fieldwork on Yucatec Maya (Mayan, Mexico) and Tagalog (Austronesian, Philippines). Additionally, he co-directs with Miguel Oscar Chan Dzul (Universidad de Oriente) <a href="http://cds.library.brown.edu/projects/yucatec/LingView/#/index/">U koorpusil maaya t'aan</a>, a multipurpose digital corpus of Yucatec Maya.</p>
+			<p>Scott is an Associate Professor in the Department of Cognitive, Linguistic, and Psychological Sciences (CLPS) at Brown University. His research is focused on issues in semantics and pragmatics, especially those concerning non-truth conditional meanings and the way they interact with sentence type. Beyond A’ingae, his work has explored these issues through primary fieldwork on Yucatec Maya (Mayan, Mexico) and Tagalog (Austronesian, Philippines). Additionally, he co-directs with Miguel Oscar Chan Dzul (Universidad de Oriente) <a href="https://yucatecmaya.github.io/LingView/#/">U koorpusil maaya t'aan</a>, a multipurpose digital corpus of Yucatec Maya.</p>
 
 			<h4>Wilson Silva</h4>
 			<p><a href="mailto:wdelimasilva@email.arizona.edu">wdelimasilva@email.arizona.edu</a></p>
