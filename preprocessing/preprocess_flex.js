@@ -26,8 +26,22 @@ function isSeparator(char) {
 // word - the data associated with a single word of the source text, 
 //   structured as in FLEx
 // return true if the word is tagged as punctuation within FLEx
+// If the word is marked as type "punct" but the word is alphanumeric,
+// this word might come from a different language than what FLEx is trying 
+// to detect in this file, so this word should not be marked as a punctuation. 
 function isPunctuation(word) {
-  return word.item[0].$.type === "punct";
+  if (word.item[0].$.type === "punct")  {
+    const wordElement = word.item[0]._;
+    // The Regex checks if the word contains digits or alpha letters.
+    // This expression also includes special characters, such as accented letters
+    // or other letters not existent in English. 
+    if (wordElement && wordElement.match(/^[0-9a-zA-ZÀ-ÿ]+$/)) {
+      return false; 
+    } else {
+      return true; 
+    }
+  }
+  return false; 
 }
 
 // metadata - a metadata object
@@ -91,14 +105,15 @@ function getSentenceToken(word) {
       type = 'end';
     }
   }
-
-  return {'value': wordValue, 'type': type};
+  return {'value': wordValue, 'type': type}; 
 }
 
 // sentenceTokens - a list of objects, each indicating how to represent
 //   one word within the sentence text
 // returns the sentence as a string with correct punctuation and spacing
 function concatWords(sentenceTokens) {
+  //console.log("===CONCAT WORDS====="); 
+  //console.log(sentenceTokens); 
   let sentenceText = "";
   let maybeAddSpace = false; // no space before first word
   for (const typedToken of sentenceTokens) {
@@ -106,8 +121,11 @@ function concatWords(sentenceTokens) {
       sentenceText += " ";
     }
     maybeAddSpace = (typedToken.type !== "start");
-    sentenceText += typedToken["value"];
+    // If the word token's value is undefined, skip this word.
+    sentenceText += typedToken["value"] || "";
   }
+  //console.log(sentenceText);
+  //console.log("===========");
   return sentenceText;
 }
 
@@ -245,7 +263,7 @@ function getSentenceJson(sentence, speakerReg, tierReg, wordsTierID, hasTimestam
 
   let slotNum = 0;
   const sentenceTokens = []; // for building the free transcription
-  for (const word of flexUtils.getSentenceWords(sentence)) {
+  for (const word of flexUtils.getSentenceWords(sentence)) {   
     const wordStartSlot = slotNum;
 
     // deal with the morphs that subdivide this word
@@ -269,6 +287,9 @@ function getSentenceJson(sentence, speakerReg, tierReg, wordsTierID, hasTimestam
     // deal with sentence-level transcription
     sentenceTokens.push(getSentenceToken(word));
   }
+
+  //console.log("sentence tokens");
+  //console.log(sentenceTokens);
 
   // deal with free glosses
   const freeGlosses = flexUtils.getSentenceFreeGlosses(sentence);
@@ -296,6 +317,7 @@ function getSentenceJson(sentence, speakerReg, tierReg, wordsTierID, hasTimestam
     sentenceJson.speaker = speakerReg.getSpeakerID(speaker);
   }
   
+  //console.log(sentenceJson); 
   return sentenceJson;
 }
 
