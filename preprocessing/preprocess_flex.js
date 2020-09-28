@@ -112,8 +112,6 @@ function getSentenceToken(word) {
 //   one word within the sentence text
 // returns the sentence as a string with correct punctuation and spacing
 function concatWords(sentenceTokens) {
-  //console.log("===CONCAT WORDS====="); 
-  //console.log(sentenceTokens); 
   let sentenceText = "";
   let maybeAddSpace = false; // no space before first word
   for (const typedToken of sentenceTokens) {
@@ -124,8 +122,6 @@ function concatWords(sentenceTokens) {
     // If the word token's value is undefined, skip this word.
     sentenceText += typedToken["value"] || "";
   }
-  //console.log(sentenceText);
-  //console.log("===========");
   return sentenceText;
 }
 
