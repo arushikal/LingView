@@ -12,9 +12,10 @@ export function setupTextSync() {
     let ts_stop_time_array = [];
 
     if (media) {
+        // For files with AV files, link the media file with the syncing functions.
         media.setAttribute("ontimeupdate", "sync(this.currentTime)");
         media.setAttribute("onclick", "sync(this.currentTime)");
-
+        // For each sentence, sets up the sentence's start and end time. 
         ts_tag_array = document.getElementsByClassName("labeledTimeBlock");
         for (var i = 0; i < ts_tag_array.length; i++) {
             ts_start_time_array[i] = ts_tag_array[i].getAttribute("data-start_time");
@@ -24,14 +25,7 @@ export function setupTextSync() {
         ts_tag_array = document.getElementsByClassName("untimedBlock");
     }
 
-    // try {
-    //     const media = document.querySelectorAll("[data-live='true']")[0];
-    //     media.setAttribute("ontimeupdate", "sync(this.currentTime)");
-    //     media.setAttribute("onclick", "sync(this.currentTime)");
-    // } catch (err) {
-    //     console.log(err);
-    // }
-
+    /* Scrolls to a selected sentence. */
     function scrollIntoViewIfNeeded(target) {
         var rect = target.getBoundingClientRect();
         if (rect.bottom > window.innerHeight) {
@@ -42,6 +36,7 @@ export function setupTextSync() {
         } 
     }
 
+    /* Sync function for files with AV */
     window.sync = function sync(current_time) {
         for (var i=0; i<ts_tag_array.length; i++) {
             // Somewhat hacky solution: decrease current_time by 0.001 to avoid highlighting before player starts
@@ -58,7 +53,7 @@ export function setupTextSync() {
         }
     }
 
-    // Two functions that change the color of a sentence to either highlight or normal.
+    /* Two functions that change the color of a sentence to either highlight or normal. */
     function changeSentenceColorToHighlight(timestampIndex) {
         ts_tag_array[timestampIndex].style.backgroundColor = "rgb(209, 200, 225)";
     }
@@ -66,7 +61,7 @@ export function setupTextSync() {
         ts_tag_array[timestampIndex].style.backgroundColor = "transparent";
     }
 
-    // OnClick function for each timestamp
+    /* OnClick function for each timestamp */
     $(".timeStamp").click(function() {
         const newTime = $(this).data('start_time');
         if (newTime) {
@@ -76,18 +71,25 @@ export function setupTextSync() {
             // A file without AV files will not have newTime associated with each sentence.
             // In this case, use the sentence id as part of the new URL after selecting a sentence. 
             const sentId = $(this).data('sentence_id');
-            updateTimestampQuery(sentId);
-            for (var i = 0; i < ts_tag_array.length; i++) {
-                // sentence id starts with 1
-                if (i+1 == sentId) {
-                    changeSentenceColorToHighlight(i);
-                } else {
-                    changeSentenceColorToNormal(i);
-                }
-            }
+            updateForUntimedFile(sentId);
         }
         // document.location.search = $(this).data('start_time');
     });
+
+    /* For files without AV, change the selected sentence's color and scroll to it. */
+    function updateForUntimedFile(sentId) {
+        for (var i = 0; i < ts_tag_array.length; i++) {
+            // sentence id starts with 1
+            if (i+1 == sentId) {
+                ts_tag_array[i].setAttribute("id", "current");
+                scrollIntoViewIfNeeded($("#current")[0]);
+                changeSentenceColorToHighlight(i);
+            } else {
+                changeSentenceColorToNormal(i);
+            }
+        }
+        updateTimestampQuery(sentId);
+    }
 
     // I/P: t, an integer number of milliseconds
     // O/P: the player updates to the given time
@@ -95,8 +97,9 @@ export function setupTextSync() {
     // This function adjusts the AV file(s)' timestamp according to the 
     // selected sentence's URL
     function setMediaCurrentTime(t) {
-        // change by Holly, October 3, 2020: I moved the updateTimestampQuery call to 
-        // be part of the onclick of .timeStamp
+        // Change by Holly, October 3, 2020: I moved the updateTimestampQuery call to 
+        // be part of the onclick of .timeStamp.
+        // Also, I removed the try-catch block so that no error is thrown for non-AV files. 
         const media = $("[data-live='true']").get(0);
         if (media) {
             media.currentTime = (t + 2) / 1000;
@@ -111,11 +114,13 @@ export function setupTextSync() {
         // }
     }
 
+    /* Updates the URL according to a sentence's index id. */
     function updateTimestampQuery(newSentenceIndex) {
         if (window.history.replaceState) {
             // const newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.hash.replace(/\?.*$/, ''); // hacky...
-            // TODO: need to deal with this -1 somehow...
-            const newurl = window.location.href.replace(/\?.*$/,'') + `?${newSentenceIndex-1}`; // hacky...
+
+            // (Holly:) The original code had -1 in the timestamp after ? --- why is this -1 necessary? 
+            const newurl = window.location.href.replace(/\?.*$/,'') + `?${newSentenceIndex}`; // hacky...
             window.history.replaceState({ path: newurl }, '', newurl);
         }
     }
@@ -142,8 +147,12 @@ export function setupTextSync() {
             //jumpToTime(startTime);
             //console.log(document.getElementById(startTime));
 
-            // TODO: will this work with non-AV files?
-            setMediaCurrentTime(sentenceTimestampId + 1);
+            if (media) {
+                setMediaCurrentTime(sentenceTimestampId + 1);
+            } else {
+                updateForUntimedFile(sentenceTimestampId);
+            }
+            
         }
     });
 
