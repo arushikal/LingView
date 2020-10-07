@@ -17,7 +17,6 @@ export class Story extends React.Component {
 
         // If there is a footer, i.e., if audio exists:
         if ($('#footer').length !== 0) {
-            //setupTextSync();
             // If video exists:
             if ($('#video').length !== 0) {
                 Video.show();
@@ -46,7 +45,7 @@ export class Story extends React.Component {
             }
             const audioFilePath = getMediaFilePath(audioFile);
             footer = <div id="footer"><audio data-live="true" controls controlsList="nodownload" id="audio" src={audioFilePath}/></div>;
-        } 
+        }
         return (
             <div>
                 <div id="middle">
