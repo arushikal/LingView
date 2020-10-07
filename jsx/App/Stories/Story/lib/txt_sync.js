@@ -3,9 +3,6 @@
 export function setupTextSync() {
 
     // "media" is undefined if there are no AV files associated with the current text. 
-    // Holly's change on Oct 5, 2020: 
-    // This block used to be a try-catch block, I changed it so that when there are no AV files
-    // this block doesn't throw any error to the console. 
     const media = document.querySelectorAll("[data-live='true']")[0];
     let ts_tag_array = []; // Array that stores all timestamps/sentence id
     let ts_start_time_array = [];
@@ -43,21 +40,21 @@ export function setupTextSync() {
             if ((current_time-0.001 >= parseFloat(ts_start_time_array[i])/1000.0) && (current_time <= parseFloat(ts_stop_time_array[i])/1000.0)) {
                 ts_tag_array[i].setAttribute("id", "current");
                 scrollIntoViewIfNeeded($("#current")[0]);
-                changeSentenceColorToHighlight(i); 
+                highlightSentence(i); 
             }
             else {
-                changeSentenceColorToNormal(i);
+                unHighlightSentence(i);
                 try { ts_tag_array[i].removeAttribute("id"); }
                 catch (err) { }
             }
         }
     }
 
-    /* Two functions that change the color of a sentence to either highlight or normal. */
-    function changeSentenceColorToHighlight(timestampIndex) {
+    /* Two functions that highlights/unhighlights a sentence. */
+    function highlightSentence(timestampIndex) {
         ts_tag_array[timestampIndex].style.backgroundColor = "rgb(209, 200, 225)";
     }
-    function changeSentenceColorToNormal(timestampIndex) {
+    function unHighlightSentence(timestampIndex) {
         ts_tag_array[timestampIndex].style.backgroundColor = "transparent";
     }
 
@@ -73,7 +70,6 @@ export function setupTextSync() {
             const sentId = $(this).data('sentence_id');
             updateForUntimedFile(sentId);
         }
-        // document.location.search = $(this).data('start_time');
     });
 
     /* For files without AV, change the selected sentence's color and scroll to it. */
@@ -83,9 +79,9 @@ export function setupTextSync() {
             if (i+1 == sentId) {
                 ts_tag_array[i].setAttribute("id", "current");
                 scrollIntoViewIfNeeded($("#current")[0]);
-                changeSentenceColorToHighlight(i);
+                highlightSentence(i);
             } else {
-                changeSentenceColorToNormal(i);
+                unHighlightSentence(i);
             }
         }
         updateTimestampQuery(sentId);
@@ -97,36 +93,32 @@ export function setupTextSync() {
     // This function adjusts the AV file(s)' timestamp according to the 
     // selected sentence's URL
     function setMediaCurrentTime(t) {
-        // Change by Holly, October 3, 2020: I moved the updateTimestampQuery call to 
-        // be part of the onclick of .timeStamp.
-        // Also, I removed the try-catch block so that no error is thrown for non-AV files. 
         const media = $("[data-live='true']").get(0);
         if (media) {
             media.currentTime = (t + 2) / 1000;
         }
-        // try {
-        //     const media = $("[data-live='true']").get(0);
-        //     media.currentTime = (t + 2) / 1000;
-        // }
-        // catch(err) {
-        //     console.log(err);
-        //     console.log("We think you tried to jump to time before the MEDIA element was created.")
-        // }
     }
 
     /* Updates the URL according to a sentence's index id. */
     function updateTimestampQuery(newSentenceIndex) {
         if (window.history.replaceState) {
-            // const newurl = window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.hash.replace(/\?.*$/, ''); // hacky...
-
-            // (Holly:) The original code had -1 in the timestamp after ? --- why is this -1 necessary? 
+            // For files with AV, the intended behavior on the site is that
+            // the first sentence doesn't highlight until things actually start playing.
+            // That way, the first sentence becomes highlighted 1 ms into the recording if its start time was 0 ms.
+            // So, here if media files are present, decrement sentence index by 1.
+            if (media) {
+                newSentenceIndex -= 1;
+            }
             const newurl = window.location.href.replace(/\?.*$/,'') + `?${newSentenceIndex}`; // hacky...
             window.history.replaceState({ path: newurl }, '', newurl);
         }
     }
 
 
-    // Jump to timestamp:
+    /* 
+     * Reads the page's current URL, and if the sentence query index is specified, 
+     * performs the corresponding functions to jump to the requested sentence. 
+     */
     // Source: http://snydersoft.com/blog/2009/11/14/get-parameters-to-html-page-with-javascript/
     $( document ).ready(function() {
         // This sentenceTimestampId is the timestamp for a file with AV, 
@@ -134,27 +126,12 @@ export function setupTextSync() {
         let query_index = document.URL.indexOf("?");
         let sentenceTimestampId = Number(document.URL.substr(query_index+1));
         if (isFinite(sentenceTimestampId)) {
-            // startTime = startTime + 3 // do not remove (result of hacky solution further up in this file)
-            // const media = $("[data-live='true']").get(0);
-            
-            // let hasRun = false;
-            // media.oncanplay = function () {
-            //     if (hasRun) return;
-            //     hasRun = true;
-            //     this.currentTime = startTime / 1000;
-            // }
-            //console.log(startTime);
-            //jumpToTime(startTime);
-            //console.log(document.getElementById(startTime));
-
             if (media) {
                 setMediaCurrentTime(sentenceTimestampId + 1);
             } else {
                 updateForUntimedFile(sentenceTimestampId);
-            }
-            
+            } 
         }
     });
-
-    
+  
 }

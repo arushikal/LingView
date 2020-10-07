@@ -25,11 +25,6 @@ export function UntimedTextDisplay({ sentences }) {
 				sentence={sentence} 
 				sentenceId={sentenceCount} 
 			/>
-			
-			// ----- Original code -----
-			// <div key={id.generate()} className="untimedBlock">
-			// 	<Sentence key={id.generate()} sentence={sentence} />
-			// </div>
 		);
 		sentenceCount += 1; 
 	}
