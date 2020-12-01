@@ -1,115 +1,4 @@
 {
-  "1e3bff88-29b9-4b3f-be34-bffc38624bac": {
-    "timed": false,
-    "story ID": "1e3bff88-29b9-4b3f-be34-bffc38624bac",
-    "title": {
-      "con-Latn-EC": "103 Singo a'i",
-      "en": "Black People",
-      "es": "El negro",
-      "_default": "Singo a'i"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [
-      "con-Latn-EC",
-      "en",
-      "es"
-    ],
-    "date_created": "",
-    "date_uploaded": "2/3/2018",
-    "source": {
-      "con-Latn-EC": "Blaser, Magdalena \"Mitos del pueblo Cofán\"",
-      "en": "Blaser, Magdalena \"Myths of the Cofán people\"",
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [],
-    "xml_file_name": "103.xml",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "Palabra a'ingae (borman)": {
-        "subdivided": true
-      },
-      "Morfema (texto) a'ingae (borman)": {
-        "subdivided": true
-      },
-      "Morfema (forma típico) a'ingae (borman)": {
-        "subdivided": true
-      },
-      "Glosa de morfema inglés": {
-        "subdivided": true
-      },
-      "Frase inglés": {
-        "subdivided": false
-      },
-      "Frase español": {
-        "subdivided": false
-      },
-      "Frase a'ingae (borman)": {
-        "subdivided": false
-      }
-    }
-  },
-  "1ed3d641-acd9-4466-811d-17c8ed59844c": {
-    "timed": true,
-    "story ID": "1ed3d641-acd9-4466-811d-17c8ed59844c",
-    "title": {
-      "_default": "Kuke chiste"
-    },
-    "media": {
-      "audio": "20170804_kuke_chiste_FACQ.mp3",
-      "video": "20170804_kuke_chiste_FACQ_handbrake.mp4"
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "8/30/2018",
-    "source": {
-      "_default": ""
-    },
-    "description": "A joke about a hare",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [
-      "Fausto Criollo"
-    ],
-    "xml_file_name": "20170804_kuke_chiste_FACQ.eaf",
-    "source_filetype": "ELAN",
-    "tier IDs": {
-      "Gloss": {
-        "subdivided": true
-      },
-      "Glosa": {
-        "subdivided": true
-      },
-      "Ortografía vieja": {
-        "subdivided": true
-      },
-      "Morfema": {
-        "subdivided": true
-      },
-      "English": {
-        "subdivided": true
-      },
-      "Español": {
-        "subdivided": true
-      },
-      "A'ingae": {
-        "subdivided": true
-      }
-    },
-    "speaker IDs": {
-      "S1": {
-        "name": "Fausto Criollo",
-        "tier": "--"
-      }
-    }
-  },
   "b173c1a6-13ee-49fd-b745-d9ea576fa5ac": {
     "timed": false,
     "story ID": "b173c1a6-13ee-49fd-b745-d9ea576fa5ac",
@@ -171,7 +60,7 @@
     }
   },
   "5081a3a2-e7f7-493a-89a9-0dd74f545cb2": {
-    "timed": false,
+    "timed": true,
     "story ID": "5081a3a2-e7f7-493a-89a9-0dd74f545cb2",
     "title": {
       "con-Latn-CO": "Apicha pwshesw kundasepa",
@@ -182,7 +71,7 @@
       "_default": "Apicha pûshesû kundasepa"
     },
     "media": {
-      "audio": "",
+      "audio": "Apicha pûshesû kundasepa.mp3",
       "video": ""
     },
     "languages": [
