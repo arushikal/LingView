@@ -4,6 +4,7 @@ import { AboutPage } from "./AboutPage.jsx";
 import { LandingPage } from "./LandingPage.jsx";
 import { GlossaryPage } from "./GlossaryPage.jsx";
 import { ResourcesPage } from "./ResourcesPage.jsx";
+import { MaterialIndex } from "./MaterialIndex.jsx";
 import { StoryIndex } from "./StoryIndex.jsx";
 import { Search } from "./Search.jsx";
 import { Stories } from "./Stories/Stories.jsx";
@@ -15,6 +16,7 @@ import {
   navBarIndexText,
   navBarGlossaryText,
   navBarResourcesText,
+	navBarMaterialsText,
 } from "./locale/LocaleConstants.jsx";
 
 export function Header() {
@@ -35,6 +37,9 @@ export function Header() {
           </NavLink>
           <NavLink to="/resources">
             <TranslatableText dictionary={navBarResourcesText} />
+          </NavLink>
+          <NavLink to="/materials">
+            <TranslatableText dictionary={navBarMaterialsText} />
           </NavLink>
           <NavLink to="/glossary">
             <TranslatableText dictionary={navBarGlossaryText} />
@@ -62,6 +67,9 @@ export function Header() {
         </Route>
         <Route exact path="/resources">
           <ResourcesPage />
+        </Route>
+        <Route path="/materials">
+          <MaterialIndex />
         </Route>
         <Route exact path="/glossary">
           <GlossaryPage />
