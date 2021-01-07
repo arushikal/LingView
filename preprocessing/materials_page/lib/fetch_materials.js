@@ -99,11 +99,11 @@ function validateRecord(record, recordsLeft) {
       }).catch((err) => {
         console.warn(`Error downloading resource file: ${itemServerUrl}`, record, err)
       }).finally((info) => {
-        console.info('Records left to validate:', recordsLeft.value--);
+        console.info('Records left to validate:', --recordsLeft.value);
         return resolve({ itemServerUrl: validatedUrl, ...restRecord });
       });
     } else {
-      console.info('Records left to validate:', recordsLeft.value--);
+      console.info('Records left to validate:', --recordsLeft.value);
       return resolve({ itemServerUrl: '', ...restRecord });
     }
   });
