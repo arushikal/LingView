@@ -84,6 +84,7 @@ module.exports.fetchMaterialsMetadata = function fetchMaterialsMetadata() {
 module.exports.validateMaterialsFiles = async function validateMaterialsFiles(resourceRecords) {
   // put the recordsLeft number inside a dictionary so it can be shared across function calls
   let recordsLeft = {value: resourceRecords.length}; 
+  console.info('Total records to validate:', recordsLeft.value);
   return await Promise.all(resourceRecords.map((record) => validateRecord(record, recordsLeft)));
 }
 
@@ -99,12 +100,21 @@ function validateRecord(record, recordsLeft) {
       }).catch((err) => {
         console.warn(`Error downloading resource file: ${itemServerUrl}`, record, err)
       }).finally((info) => {
-        console.info('Records left to validate:', --recordsLeft.value);
+        reportProgress(--recordsLeft.value);
         return resolve({ itemServerUrl: validatedUrl, ...restRecord });
       });
     } else {
-      console.info('Records left to validate:', --recordsLeft.value);
+      reportProgress(--recordsLeft.value);
       return resolve({ itemServerUrl: '', ...restRecord });
     }
   });
+}
+
+function reportProgress(recordsLeftValue) {
+  // '\033[0G' overwrites the previous line in the console
+  // (see https://stackoverflow.com/q/6157497/8340554)
+  process.stdout.write('\033[0GRecords left to validate: ' + recordsLeftValue.toString().padStart(5));
+  if (recordsLeftValue == 0) {
+    console.log();
+  }
 }
