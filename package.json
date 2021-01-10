@@ -10,8 +10,8 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "cross-env": "^7.0.2",
     "datatables.net-dt": "^1.10.20",
+    "dotenv": "^8.2.0",
     "ent": "^2.2.0",
     "fuse.js": "^6.4.1",
     "html-es6cape": "^1.0.5",
@@ -29,10 +29,14 @@
     "xml2js": "^0.4.17"
   },
   "devDependencies": {
+    "airtable": "^0.10.0",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "child-process-promise": "^2.2.1",
+    "cross-env": "^7.0.2",
     "css-loader": "^3.5.2",
     "fetch-retry": "^3.1.0",
     "isomorphic-fetch": "^2.2.1",
+    "markdown-it": "^11.0.0",
     "style-loader": "^1.1.4",
     "sync-rpc": "^1.3.6",
     "url-loader": "^4.1.0"
@@ -42,7 +46,7 @@
     "rebuild-db-online": "cross-env MISSING_MEDIA=link node preprocessing/rebuild.js",
     "rebuild-db-offline": "cross-env MISSING_MEDIA=ignore node preprocessing/rebuild.js",
     "webpack": "webpack-cli --config webpack.config.js",
-    "webpack-watch": "npm run webpack -- --watch --progress",
+    "webpack-watch": "cross-env NODE_ENV=development npm run webpack -- --watch --progress",
     "bundle": "shx rm -rf bundle/ && shx mkdir -p bundle/data && shx cp -r index.html build/ css/ images/ bundle/ && shx cp -r data/media_files bundle/data/media_files",
     "quick-build-online": "npm run rebuild-db-online && npm run webpack && echo \"Done! index.html is ready. To bundle LingView, run \"npm run bundle\".\"",
     "quick-build-offline": "npm run rebuild-db-offline && npm run webpack && echo \"Done! index.html is ready. To bundle LingView, run \"npm run bundle\".\"",
