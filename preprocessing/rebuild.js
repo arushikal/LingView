@@ -4,6 +4,7 @@ const path = require('path');
 const buildFlex = require('./flex/flex_to_json').preprocessDir;
 const buildElan = require('./elan/elan_to_json').preprocessDir;
 const buildSearch = require('./build_search').buildSearch;
+const buildMaterials = require('./materials_page/build_materials').buildMaterials;
 
 const flexFilesDir = "data/flex_files/";
 const elanFilesDir = "data/elan_files/";
@@ -39,11 +40,18 @@ Promise.all([
 ])
 .then((results) => {
   console.log('Done preprocessing ELAN and FLEx!');
+  const resultsFromFlex = results[0];
+  const resultsFromElan = results[1];
+  const allStoryIDs2Name = Object.assign({}, resultsFromFlex.storyID2Name, resultsFromElan.storyID2Name);
+  //const storyIDs = results[0].concat(results[1]);
+  console.log("The following stories (IDs and filenames) were processed: "); 
+  console.log(allStoryIDs2Name);
 
-  const storyIDs = results[0].concat(results[1]);
-  console.log("The following stories were processed: " + storyIDs);
+  const storyIDs = resultsFromFlex.storyIDs.concat(resultsFromElan.storyIDs);
 
-  console.log(global.missingMediaFiles.length, 'Missing media files:', global.missingMediaFiles);
+  if (global.missingMediaFiles.length > 0) {
+    console.log(global.missingMediaFiles.length, 'missing media files:', global.missingMediaFiles);
+  }
 
   return storyIDs;
 })
@@ -70,6 +78,9 @@ Promise.all([
 })
 .then(() => {
   console.log('Successfully built and wrote search index.')
+})
+.then(() => {
+  buildMaterials();
 })
 .catch((err) => {
   console.error('Error encountered in rebuild script:');

@@ -30,6 +30,8 @@ jobs:
       env:
         CI: true
         REMOTE_MEDIA_PATH: ${{ secrets.REMOTE_MEDIA_PATH }}
+        AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+        AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
 
     - name: Deploy online version to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3

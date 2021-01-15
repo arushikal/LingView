@@ -8,7 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, 'build'),
     publicPath: './build/'
   },
-  mode: 'production',
+  mode: process.env.NODE_ENV || 'production',
   module: {
     rules: [{
       test: /\.jsx$/,
@@ -56,5 +56,6 @@ module.exports = {
       $: 'jquery',
       jQuery: 'jquery'
     })
-  ]
+  ],
+	stats: 'errors-only'
 };
