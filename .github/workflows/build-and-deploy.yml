@@ -23,7 +23,7 @@ jobs:
 
     - name: Build online version
       run: |
-        npm install --cache /tmp/empty-cache
+        npm install
         npm run rebuild-db-online
         npm run webpack
         npm run bundle
@@ -57,7 +57,7 @@ jobs:
 
     - name: Build offline-compatible local version
       run: |
-        npm install --cache /tmp/empty-cache
+        npm install
         npm run rebuild-db-offline
         npm run webpack
         npm run bundle
