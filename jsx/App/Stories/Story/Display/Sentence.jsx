@@ -11,11 +11,11 @@ function Row({ numSlots, values, tier }) {
   //      tier, the tier name
   // O/P: single row of glossed sentence, with colspan spacing
 
-  // Building a row requires slots to determine the width of certain
-  // table elements. Each element will have a start and end slot, and
-  // if there is a gap between an end slot and the following start
-  // slot, then a blank table element is input. We use the attribute
-  // 'colSpan' to account for elements which require large slots.
+	// Building a row requires slots to determine the width of certain
+	// table elements. Each element will have a start and end slot, and
+	// if there is a gap between an end slot and the following start
+	// slot, then a blank table element is input. We use the attribute
+	// 'colSpan' to account for elements which require large slots.
 
   // The currentSlot counter is used to 'fill in' the missing
   // slots when a dependent tier doesn't line up with its corresponding
@@ -51,12 +51,12 @@ function Row({ numSlots, values, tier }) {
 }
 
 export function Sentence({ sentence }) {
-  // I/P: sentence, a sentence
-  // O/P: table of glossed Row components
-  let rowList = []; // to be output
-  const numSlots = sentence['num_slots'];
-  // Add the indepentent tier, i.e., the top row, to the list of rows.
-  // Note that 'colSpan={numSlots}' ensures that this row spans the entire table.
+	// I/P: sentence, a sentence
+	// O/P: table of glossed Row components
+	let rowList = []; // to be output
+	const numSlots = sentence['num_slots'];
+	// Add the indepentent tier, i.e., the top row, to the list of rows.
+	// Note that 'colSpan={numSlots}' ensures that this row spans the entire table.
   if (sentence['noTopRow'] == null || sentence['noTopRow'] === 'false') {
     rowList.push(
       <tr data-tier={htmlEscape(sentence['tier'])}>
@@ -100,11 +100,15 @@ export function SearchSentence({ sentence }) {
   const at = document.URL.indexOf("search");
   let url = document.URL.substring(0,at);
 
-  // The query index is either start time (for Timed files) 
-  // or sentence id for (Untimed files)
-  let query_index = sentence.start_time_ms || sentence.sentence_id; 
-  url += ("story/" + sentence["story ID"] + "?" + query_index);
+	// Get URL:
+	const at = document.URL.indexOf("search");
+	let url = document.URL.substring(0,at);
 
-  // hacky way to introduce a line break (extra <tr> of height 12px)
-  return <div className="searchSentence"><table className="gloss"><thead><tr><td><b> <TranslatableText dictionary={storySearchText} /></b>: {title}</td></tr><tr style={{"height": "12px"}}></tr></thead><tbody>{rowList}</tbody></table><div class="storyLink"><a href={url}><TranslatableText dictionary={storySearchViewStoryText} /></a></div></div>;
+	// The query index is either start time (for Timed files) 
+	// or sentence id for (Untimed files)
+	let query_index = sentence.start_time_ms || sentence.sentence_id; 
+	url += ("story/" + sentence["story ID"] + "?" + query_index);
+
+    // hacky way to introduce a line break (extra <tr> of height 12px)
+	return <div className="searchSentence"><table className="gloss"><thead><tr><td><b> <TranslatableText dictionary={storySearchText} /></b>: {title}</td></tr><tr style={{"height": "12px"}}></tr></thead><tbody>{rowList}</tbody></table><div class="storyLink"><a href={url}><TranslatableText dictionary={storySearchViewStoryText} /></a></div></div>;
 }
