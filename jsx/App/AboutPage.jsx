@@ -1,6 +1,7 @@
 import React from "react";
 import { ENGLISH, ESPANOL } from "./locale/LocaleConstants.jsx";
 import { TranslatableText } from "./locale/TranslatableText.jsx";
+import { StudentNames } from "./StudentNames.jsx";
 
 const aboutPageJSX = {
   [ENGLISH]: (
@@ -334,71 +335,7 @@ const aboutPageJSX = {
         documentation, language revitalization, logic, and psycholinguistics.
       </p>
 
-      <h3>Current undergraduates</h3>
-
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Valerie Aguilar Dellisanti</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Corrin Anderer</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Atabong Khumbah</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Bryce Massey</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Alexis Roman</b>
-      </p>
-      <p>
-        <b>Jack Walker</b>
-      </p>
-
-      <h3>Former undergraduates</h3>
-
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Justin Bai</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Rocket Drew</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Amyra Durkin</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Zackary Entwistle</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Sandy Greenberg</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Rachel Gutman</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Sabrina Morvillo</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Thomas Ottaway</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Ethan Pan</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Kalinda Pride</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Chiara Repetti-Ludlow</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Nicholas Tomlin</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Haoru Zhang</b>
-      </p>
-      <p>
-        <b>Jacob Zimmerman</b>
-      </p>
+      <StudentNames />
     </div>
   ),
   [ESPANOL]: (
@@ -635,71 +572,7 @@ const aboutPageJSX = {
         Maksymilian es asistente de investigación líder en lingüística en la Universidad de Brown. Tiene un B.A. Licenciados en Lingüística y Lógica de Brown University. Trabaja predominantemente en A'ingae. Los intereses de investigación de Maksymilian incluyen fonología y sus interfaces, semántica, documentación del lenguaje, revitalización del lenguaje, lógica y psicolingüística.
       </p>
 
-      <h3>Estudiantes actuales</h3>
-
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Valerie Aguilar Dellisanti</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Corrin Anderer</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Atabong Khumbah</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Bryce Massey</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Alexis Roman</b>
-      </p>
-      <p>
-        <b>Jack Walker</b>
-      </p>
-
-      <h3>Antiguos estudiantes</h3>
-
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Justin Bai</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Rocket Drew</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Amyra Durkin</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Zackary Entwistle</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Sandy Greenberg</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Rachel Gutman</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Sabrina Morvillo</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Thomas Ottaway</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Ethan Pan</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Kalinda Pride</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Chiara Repetti-Ludlow</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Nicholas Tomlin</b>
-      </p>
-      <p style={{ marginBottom: "-.7em" }}>
-        <b>Haoru Zhang</b>
-      </p>
-      <p>
-        <b>Jacob Zimmerman</b>
-      </p>
+      <StudentNames />
     </div>
   ),
 };
