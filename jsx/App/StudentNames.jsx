@@ -8,7 +8,7 @@ const currentStudentNames = [
     "Adam Brandt",
     "Gonzalo González",
     "Jooyoung Lee",
-    "Catherine Nellie",
+    "Catherine Nelli",
     "Wyatt Woodbery",
     "Holly Zheng"
 ];
