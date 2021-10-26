@@ -2,6 +2,7 @@ import React from "react";
 import { ENGLISH, ESPANOL } from "./locale/LocaleConstants.jsx";
 import { TranslatableText } from "./locale/TranslatableText.jsx";
 
+/* Displays current and former student names. */
 const currentStudentNames = [
     "Corrin Anderer",
     "Adam Brandt",
