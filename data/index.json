@@ -1,115 +1,4 @@
 {
-  "1e3bff88-29b9-4b3f-be34-bffc38624bac": {
-    "timed": false,
-    "story ID": "1e3bff88-29b9-4b3f-be34-bffc38624bac",
-    "title": {
-      "con-Latn-EC": "103 Singo a'i",
-      "en": "Black People",
-      "es": "El negro",
-      "_default": "Singo a'i"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [
-      "con-Latn-EC",
-      "en",
-      "es"
-    ],
-    "date_created": "",
-    "date_uploaded": "2/3/2018",
-    "source": {
-      "con-Latn-EC": "Blaser, Magdalena \"Mitos del pueblo Cofán\"",
-      "en": "Blaser, Magdalena \"Myths of the Cofán people\"",
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [],
-    "xml_file_name": "103.xml",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "Palabra a'ingae (borman)": {
-        "subdivided": true
-      },
-      "Morfema (texto) a'ingae (borman)": {
-        "subdivided": true
-      },
-      "Morfema (forma típico) a'ingae (borman)": {
-        "subdivided": true
-      },
-      "Glosa de morfema inglés": {
-        "subdivided": true
-      },
-      "Frase inglés": {
-        "subdivided": false
-      },
-      "Frase español": {
-        "subdivided": false
-      },
-      "Frase a'ingae (borman)": {
-        "subdivided": false
-      }
-    }
-  },
-  "1ed3d641-acd9-4466-811d-17c8ed59844c": {
-    "timed": true,
-    "story ID": "1ed3d641-acd9-4466-811d-17c8ed59844c",
-    "title": {
-      "_default": "Kuke chiste"
-    },
-    "media": {
-      "audio": "20170804_kuke_chiste_FACQ.mp3",
-      "video": "20170804_kuke_chiste_FACQ_handbrake.mp4"
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "8/30/2018",
-    "source": {
-      "_default": ""
-    },
-    "description": "A joke about a hare",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [
-      "Fausto Criollo"
-    ],
-    "xml_file_name": "20170804_kuke_chiste_FACQ.eaf",
-    "source_filetype": "ELAN",
-    "tier IDs": {
-      "Gloss": {
-        "subdivided": true
-      },
-      "Glosa": {
-        "subdivided": true
-      },
-      "Ortografía vieja": {
-        "subdivided": true
-      },
-      "Morfema": {
-        "subdivided": true
-      },
-      "English": {
-        "subdivided": true
-      },
-      "Español": {
-        "subdivided": true
-      },
-      "A'ingae": {
-        "subdivided": true
-      }
-    },
-    "speaker IDs": {
-      "S1": {
-        "name": "Fausto Criollo",
-        "tier": "--"
-      }
-    }
-  },
   "b173c1a6-13ee-49fd-b745-d9ea576fa5ac": {
     "timed": false,
     "story ID": "b173c1a6-13ee-49fd-b745-d9ea576fa5ac",
@@ -500,7 +389,11 @@
       "es",
       "con-Latn-CO",
       "con-Latn-EC-x-borman",
-      "con-Latn-EC-x-dureno"
+      "con-Latn-EC-x-dureno",
+      "cof",
+      "de",
+      "qaa-x-qaa-c",
+      "qaa-x-xxx"
     ],
     "date_created": "",
     "date_uploaded": "10/31/2020",
@@ -525,8 +418,11 @@
     "xml_file_name": "Preparar casave 2.flextext",
     "source_filetype": "FLEx",
     "tier IDs": {
-      "palabra en a'ingae (ortografía nueva)": {
+      "palabra en corsu, lingua corsa": {
         "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
       },
       "morfema (como en el texto) en a'ingae (ortografía nueva)": {
         "subdivided": true
@@ -535,6 +431,9 @@
         "subdivided": true
       },
       "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
         "subdivided": true
       },
       "frase en inglés": {
@@ -2901,6 +2800,69 @@
         "subdivided": false
       },
       "frase en a'ingae (ortografía nueva)": {
+        "subdivided": false
+      }
+    }
+  },
+  "b7356dee-682e-4234-a641-b983f9ce988a": {
+    "timed": false,
+    "story ID": "b7356dee-682e-4234-a641-b983f9ce988a",
+    "title": {
+      "en": "The weekend",
+      "es": "El fin de semana",
+      "_default": "The weekend"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "10/12/2021",
+    "source": {
+      "con-Latn-CO": "20170807_the_weekend_fc",
+      "con-Latn-EC-x-borman": "20170807_the_weekend_fc",
+      "con-Latn-EC-x-dureno": "20170807_the_weekend_fc",
+      "en": "20170807_the_weekend_fc",
+      "es": "20170807_the_weekend_fc",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Hugo Lucitante ",
+      "Fredy Criollo"
+    ],
+    "xml_file_name": "20170807_the_weekend.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
         "subdivided": false
       }
     }

@@ -16,7 +16,7 @@ import {
   navBarIndexText,
   navBarGlossaryText,
   navBarResourcesText,
-	navBarMaterialsText,
+  navBarMaterialsText,
 } from "./locale/LocaleConstants.jsx";
 
 export function Header() {
@@ -29,11 +29,11 @@ export function Header() {
           </Link>
         </div>
         <div id="navLinks">
-          <NavLink to="/index">
-            <TranslatableText dictionary={navBarIndexText} />
-          </NavLink>
           <NavLink to="/search">
             <TranslatableText dictionary={navBarSearchText} />
+          </NavLink>
+          <NavLink to="/about">
+            <TranslatableText dictionary={navBarAboutText} />
           </NavLink>
           <NavLink to="/resources">
             <TranslatableText dictionary={navBarResourcesText} />
@@ -44,8 +44,8 @@ export function Header() {
           <NavLink to="/glossary">
             <TranslatableText dictionary={navBarGlossaryText} />
           </NavLink>
-          <NavLink to="/about">
-            <TranslatableText dictionary={navBarAboutText} />
+          <NavLink to="/index">
+            <TranslatableText dictionary={navBarIndexText} />
           </NavLink>
         </div>
       </div>
