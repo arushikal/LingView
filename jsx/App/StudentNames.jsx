@@ -58,7 +58,7 @@ const studentNames = {
             ))}
             <br />
 
-            <h3>Antiduos estudiantes</h3>
+            <h3>Antiguos estudiantes</h3>
             {formerStudentNames.map((name, index) => (
                 <p><b>{name}</b></p>
             ))}
