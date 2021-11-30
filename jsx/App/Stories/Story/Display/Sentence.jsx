@@ -96,9 +96,9 @@ export function SearchSentence({ sentence }) {
         }
   }
 
-  // Get URL:
-  const at = document.URL.indexOf("search");
-  let url = document.URL.substring(0,at);
+	// Get URL:
+	const at = document.URL.indexOf("search");
+	let url = document.URL.substring(0,at);
 
 	// The query index is either start time (for Timed files) 
 	// or sentence id for (Untimed files)
