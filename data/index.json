@@ -2810,7 +2810,7 @@
     "title": {
       "en": "The weekend",
       "es": "El fin de semana",
-      "_default": "The weekend"
+      "_default": "El fin de semana"
     },
     "media": {
       "audio": "",
@@ -2864,6 +2864,262 @@
       },
       "frase en Español": {
         "subdivided": false
+      }
+    }
+  },
+  "3ebe22a5-5e9f-4dbd-9a00-bcce7c19c320": {
+    "timed": false,
+    "story ID": "3ebe22a5-5e9f-4dbd-9a00-bcce7c19c320",
+    "title": {
+      "en": "Autobiography of EQ",
+      "es": "Autobiografía de EQ",
+      "_default": "Autobiografía de EQ"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "12/6/2021",
+    "source": {
+      "con-Latn-CO": "20170808_autobiography_EQ",
+      "con-Latn-EC-x-borman": "20170808_autobiography_EQ",
+      "con-Latn-EC-x-dureno": "20170808_autobiography_EQ",
+      "en": "20170808_autobiography_EQ",
+      "es": "20170808_autobiography_EQ",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Edilma Queta ",
+      "Jorge Mendua "
+    ],
+    "xml_file_name": "Autobiografía de EQ.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "cc02fc4a-d01a-4eb4-ad47-7d4684ee0abb": {
+    "timed": false,
+    "story ID": "cc02fc4a-d01a-4eb4-ad47-7d4684ee0abb",
+    "title": {
+      "en": "Autobiography of LY",
+      "es": "Autobiografía de LY",
+      "_default": "Autobiografía de LY"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "12/6/2021",
+    "source": {
+      "con-Latn-CO": "20170808_autobiography_LY",
+      "con-Latn-EC-x-borman": "20170808_autobiography_LY",
+      "con-Latn-EC-x-dureno": "20170808_autobiography_LY",
+      "en": "20170808_autobiography_LY",
+      "es": "20170808_autobiography_LY",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Jorge Mendua ",
+      "Leonel Yiyiguaje"
+    ],
+    "xml_file_name": "Autobiografía de LY.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "c9fc3c4e-8c8e-4ecd-bae2-fae6c9aea8fa": {
+    "timed": false,
+    "story ID": "c9fc3c4e-8c8e-4ecd-bae2-fae6c9aea8fa",
+    "title": {
+      "en": "How to prepare kuikhu",
+      "es": "Como preparar kuikhu",
+      "_default": "Como preparar khuikhu"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "12/6/2021",
+    "source": {
+      "con-Latn-CO": "20170808_como_preparar_kuikhu_EQ",
+      "con-Latn-EC-x-borman": "20170808_como_preparar_kuikhu_EQ",
+      "con-Latn-EC-x-dureno": "20170808_como_preparar_kuikhu_EQ",
+      "en": "20170808_como_preparar_kuikhu_EQ",
+      "es": "20170808_como_preparar_kuikhu_EQ",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Jorge Mendua ",
+      "Edilma Queta"
+    ],
+    "xml_file_name": "Como preparar khuikhu.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "7367d705-013f-4f42-924e-da43ea253d52": {
+    "timed": false,
+    "story ID": "7367d705-013f-4f42-924e-da43ea253d52",
+    "title": {
+      "en": "Plans for the future",
+      "es": "Planes para futuro",
+      "_default": "Planes para el futuro"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno",
+      "cof",
+      "qaa-x-xxx",
+      "de"
+    ],
+    "date_created": "",
+    "date_uploaded": "12/6/2021",
+    "source": {
+      "con-Latn-CO": "20170808_planes_para_futuro_LY_EQ",
+      "con-Latn-EC-x-borman": "20170808_planes_para_futuro_LY_EQ",
+      "con-Latn-EC-x-dureno": "20170808_planes_para_futuro_LY_EQ",
+      "en": "20170808_planes_para_futuro_LY_EQ",
+      "es": "20170808_planes_para_futuro_LY_EQ",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Jorge Mendua ",
+      "Edilma Queta",
+      "Leonel Yiyoguaje "
+    ],
+    "xml_file_name": "Planes para el futuro.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en corsu, lingua corsa": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
+        "subdivided": false
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
       }
     }
   }
