@@ -1,0 +1,2056 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+  <interlinear-text guid="cc02fc4a-d01a-4eb4-ad47-7d4684ee0abb">
+    <item type="title" lang="en">Autobiography of LY</item>
+    <item type="title" lang="es">Autobiografía de LY</item>
+    <item type="title-abbreviation" lang="con-Latn-CO">17AV</item>
+    <item type="title-abbreviation" lang="con-Latn-EC-x-borman">17AV</item>
+    <item type="title-abbreviation" lang="con-Latn-EC-x-dureno">17AV</item>
+    <item type="title-abbreviation" lang="en">17AV</item>
+    <item type="title-abbreviation" lang="es">17AV</item>
+    <item type="source" lang="con-Latn-CO">20170808_autobiography_LY</item>
+    <item type="source" lang="con-Latn-EC-x-borman">20170808_autobiography_LY</item>
+    <item type="source" lang="con-Latn-EC-x-dureno">20170808_autobiography_LY</item>
+    <item type="source" lang="en">20170808_autobiography_LY</item>
+    <item type="source" lang="es">20170808_autobiography_LY</item>
+    <paragraphs>
+      <paragraph guid="3e8b8faa-f377-4d7d-bb55-56acb09f6f24">
+        <phrases>
+          <phrase guid="f70edb83-7c08-4b40-9503-13bb334ef9d4" begin-time-offset="650" end-time-offset="6450" speaker="Jorge Mendua " media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word guid="0f80dbbd-3945-4155-bae6-b2fbf6c0fc05">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ya</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ya</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ya</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">already</item>
+                    <item type="gls" lang="es">ya</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="3e0dae28-443f-429c-b2bf-f47c295314e0">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kundaja</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kunda</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kunda</item>
+                    <item type="gls" lang="en">tell</item>
+                    <item type="gls" lang="es"></item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ja</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ja</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">=IMP</item>
+                    <item type="gls" lang="es">=IMP</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5e80efed-83f4-4c07-b86a-d1e464f4b291">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ke</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ke</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ke</item>
+                    <item type="gls" lang="en">2.SG</item>
+                    <item type="gls" lang="es">2.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="dcf2e4c5-3c7b-486f-aa29-d4ac1142157f">
+                <item type="txt" lang="con-Latn-EC-x-dureno">autobiografiama</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">autobiografia</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">autobiografia</item>
+                    <item type="gls" lang="en">autobiography</item>
+                    <item type="gls" lang="es">autobiografía</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ac98ed7d-b009-4ab6-8ad3-681a393466df">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jingaesû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jingaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jingesû</item>
+                    <item type="gls" lang="en">HORT2</item>
+                    <item type="gls" lang="es">HORT2</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b59c20a9-c946-4cb0-b299-4e394753699e">
+                <item type="txt" lang="con-Latn-EC-x-dureno">pañañe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">paña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">paña</item>
+                    <item type="gls" lang="en">hear</item>
+                    <item type="gls" lang="es">oír</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ñe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ye</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=INF</item>
+                    <item type="gls" lang="es">=INF</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5e80efed-83f4-4c07-b86a-d1e464f4b291">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ke</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ke</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ke</item>
+                    <item type="gls" lang="en">2.SG</item>
+                    <item type="gls" lang="es">2.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="56dcd77a-7669-416d-8f5e-4913f827b03c">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kundachuma</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kunda</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kunda</item>
+                    <item type="gls" lang="en">tell</item>
+                    <item type="gls" lang="es"></item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=chu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='chu</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SBRD</item>
+                    <item type="gls" lang="es">=SBRD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Tell us your autobiography. Let's hear your story.</item>
+            <item type="gls" lang="es">ya, cuéntenos tu autobiografia, te eschuchamos </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b07935dc-c7dc-44ca-a57d-2a197c0aad28">
+        <phrases>
+          <phrase guid="dcec1144-39cb-44f3-9346-0dff36c884f4" begin-time-offset="6520" end-time-offset="8440" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word guid="0f80dbbd-3945-4155-bae6-b2fbf6c0fc05">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ya</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ya</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ya</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">already</item>
+                    <item type="gls" lang="es">ya</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af5ec481-1d75-43f5-ba2f-3e3450bb0774">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="61a59358-e850-4b80-9103-30529e1da510">
+                <item type="txt" lang="con-Latn-EC-x-dureno">inisetatsû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">inise</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">inise</item>
+                    <item type="gls" lang="en">name</item>
+                    <item type="gls" lang="es">nombre</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="gls" lang="en">=NEW</item>
+                    <item type="gls" lang="es">=NEW</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">My name is</item>
+            <item type="gls" lang="es">ya, mi nombre es </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b526b11f-c2f5-42ca-bdea-2df7681af471">
+        <phrases>
+          <phrase guid="634135df-e378-4c66-a1ae-3e9ca8897bc1" begin-time-offset="8520" end-time-offset="11050" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word guid="cb587f0f-133c-4f3b-8ac0-efdd190435da">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kasete</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kasete</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kase'te</item>
+                    <item type="gls" lang="en">good morning</item>
+                    <item type="gls" lang="es">buenos días</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af5ec481-1d75-43f5-ba2f-3e3450bb0774">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="61a59358-e850-4b80-9103-30529e1da510">
+                <item type="txt" lang="con-Latn-EC-x-dureno">inisetatsû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">inise</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">inise</item>
+                    <item type="gls" lang="en">name</item>
+                    <item type="gls" lang="es">nombre</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="gls" lang="en">=NEW</item>
+                    <item type="gls" lang="es">=NEW</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="55648870-4931-4e68-a0e1-5b555389a6f7">
+                <item type="txt" lang="con-Latn-EC-x-dureno">Leonel</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">Leonel</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">Leonel</item>
+                    <item type="gls" lang="en">Leonel</item>
+                    <item type="gls" lang="es">Leonel</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="952693db-ab61-4977-bb1f-06065b6d28cb">
+                <item type="txt" lang="con-Latn-EC-x-dureno">Yiyiguaje</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">Yiyiguaje</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">Yiyiguaje</item>
+                    <item type="gls" lang="en">Yiyiguaje</item>
+                    <item type="gls" lang="es">Yiyiguaje</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Good morning. My name is Leonel Yiyiguaje.</item>
+            <item type="gls" lang="es">buenos días, mi nombre es Leonel Yiyiguaje </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="57ce0495-d898-439c-ab40-cb0e6ed0cc33">
+        <phrases>
+          <phrase guid="1866386f-d42b-4276-bdb9-03adfece1a86" begin-time-offset="11460" end-time-offset="14340" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word guid="47c49688-5070-4875-a3c9-9f40dddd8b65">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ñandangi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=nda</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="gls" lang="en">=NEW</item>
+                    <item type="gls" lang="es">=NEW</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="4d255a6c-2a72-4d2b-a7d1-0ef0bc33c8f2">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ambian</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ambian</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">a'mbian</item>
+                    <item type="gls" lang="en">have</item>
+                    <item type="gls" lang="es">tener</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="48da06b8-2f0e-4997-b811-3890e3269b85">
+                <item type="txt" lang="con-Latn-EC-x-dureno">veinte</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">veinte</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">veinte</item>
+                    <item type="gls" lang="en">twenty</item>
+                    <item type="gls" lang="es">veinte</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="6f07d8a2-6fb9-4e98-a43c-e5cf1df63316">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tres</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tres</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tres</item>
+                    <item type="gls" lang="en">three</item>
+                    <item type="gls" lang="es">tres</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="0d11dd4c-26f4-4dd5-812a-cee346f3c5ea">
+                <item type="txt" lang="con-Latn-EC-x-dureno">añome</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">año</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">año</item>
+                    <item type="gls" lang="en">year</item>
+                    <item type="gls" lang="es">año</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=me</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ve</item>
+                    <item type="gls" lang="en">=ACC2</item>
+                    <item type="gls" lang="es">=ACC2</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I am 23 years old,</item>
+            <item type="gls" lang="es">tengo 23 años de edad</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1ded7023-7705-4cd4-ad33-598262a68707">
+        <phrases>
+          <phrase guid="5a2a67df-ca16-4af0-9056-6003cc1648f1" begin-time-offset="15630" end-time-offset="19370" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word guid="3ff495e6-e6a9-427d-b1e8-aa7e01d50c15">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsumbakhengi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsun</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="gls" lang="es">hacer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='khe</item>
+                    <item type="gls" lang="en">=ADD</item>
+                    <item type="gls" lang="es">=ADD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="27a86677-87c1-4330-be92-84e9c3a7b9ae">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="es">qué</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b9b94ce5-01e8-47e9-9e2d-340ac7f25b86">
+                <item type="txt" lang="con-Latn-EC-x-dureno">va</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">va</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">va</item>
+                    <item type="gls" lang="en">PRX</item>
+                    <item type="gls" lang="es">PRX</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e18ce6f1-df7e-4499-8675-a8d0cf2917e2">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kajenisû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kaje</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kan'jen</item>
+                    <item type="gls" lang="en">live</item>
+                    <item type="gls" lang="es">vivir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ni</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ni</item>
+                    <item type="gls" lang="en">=LOC</item>
+                    <item type="gls" lang="es">=LOC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=sû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='sû</item>
+                    <item type="gls" lang="en">=ATTR</item>
+                    <item type="gls" lang="es">=ATTR</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f3398e13-c7d6-4fcd-9707-292ffe560856">
+                <item type="txt" lang="con-Latn-EC-x-dureno">dû'shûngi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">dû'shû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">dû'shû</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="gls" lang="es">niño</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">and I am from the Zábalo community.</item>
+            <item type="gls" lang="es">y soy de acá de la comunidad de Zábalo </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="15e8b04e-0178-47be-ae99-ed22bdc4ed83">
+        <phrases>
+          <phrase guid="4f87057b-caca-414e-ad31-64d99e442d88" begin-time-offset="20370" end-time-offset="23710" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word guid="b614d8e6-b099-4e9c-9235-506ce57fc771">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsumba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsun</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="gls" lang="es">hacer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af5ec481-1d75-43f5-ba2f-3e3450bb0774">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="4cd06378-733f-45a2-a2b0-8ae7b7a7fc30">
+                <item type="txt" lang="con-Latn-EC-x-dureno">Quitoni</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">Quito</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">Quito</item>
+                    <item type="gls" lang="en">Quito</item>
+                    <item type="gls" lang="es">Quito</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ni</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ni</item>
+                    <item type="gls" lang="en">=LOC</item>
+                    <item type="gls" lang="es">=LOC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="fb11fbbc-4298-4e7a-88cf-f2d7eb02bc6b">
+                <item type="txt" lang="con-Latn-EC-x-dureno">akhia</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">akhia</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">akhia</item>
+                    <item type="gls" lang="en">only</item>
+                    <item type="gls" lang="es">sólo</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8ae2559f-ff2a-4080-a2f1-407bf116f0b9">
+                <item type="txt" lang="con-Latn-EC-x-dureno">re'rikhue</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">re'ri'khu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">re'ri'khu</item>
+                    <item type="gls" lang="en">little</item>
+                    <item type="gls" lang="es">poco</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=e</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=e</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=ADV</item>
+                    <item type="gls" lang="es">=ADV</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b6ccee76-b75e-4f66-862b-171463716037">
+                <item type="txt" lang="con-Latn-EC-x-dureno">japa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ja</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ja</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="gls" lang="es">ir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="57f523c7-6251-434e-bf5e-da9ed92acc60">
+                <item type="txt" lang="con-Latn-EC-x-dureno">estudiayekhe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">estudia</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">estudia</item>
+                    <item type="gls" lang="en">study</item>
+                    <item type="gls" lang="es">estudiar</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ye</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ye</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=INF</item>
+                    <item type="gls" lang="es">=INF</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='khe</item>
+                    <item type="gls" lang="en">=ADD</item>
+                    <item type="gls" lang="es">=ADD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b6ccee76-b75e-4f66-862b-171463716037">
+                <item type="txt" lang="con-Latn-EC-x-dureno">japa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ja</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ja</item>
+                    <item type="gls" lang="en">go</item>
+                    <item type="gls" lang="es">ir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I went to study in Quito for a bit</item>
+            <item type="gls" lang="es">fui a Quito a estudiar poco </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="380fe40a-4cd5-4d01-9127-bdb3331982ac">
+        <phrases>
+          <phrase guid="296f6f6a-ce13-43a7-be8d-32798b3e6fa2" begin-time-offset="24630" end-time-offset="26990" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word guid="f271686c-29a5-4036-8845-26209ce66dd9">
+                <item type="txt" lang="con-Latn-EC-x-dureno">nanimbengi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">nani</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">nani</item>
+                    <item type="gls" lang="en">end</item>
+                    <item type="gls" lang="es">terminar</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mbe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=mbe</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">=NEG.ADV</item>
+                    <item type="gls" lang="es">=NEG.ADV</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="655cc51c-9e67-42ef-bd04-bd15e473f334">
+                <item type="txt" lang="con-Latn-EC-x-dureno">sumbu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">sumbu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">sumbu</item>
+                    <item type="gls" lang="en">go out</item>
+                    <item type="gls" lang="es">salir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">but left without finishing</item>
+            <item type="gls" lang="es">salí sin terminar </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="1081e162-8efc-4714-add3-ceb4fc55f7bb">
+        <phrases>
+          <phrase guid="50e62773-9509-45f7-bf8d-6bfb46971da2" begin-time-offset="27130" end-time-offset="31200" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word guid="27a86677-87c1-4330-be92-84e9c3a7b9ae">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="es">qué</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b233d03f-46ce-4a85-abfe-9cfac3b7277f">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ushachu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ushachu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">usha'chu</item>
+                    <item type="gls" lang="en">everything</item>
+                    <item type="gls" lang="es">todo</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1d12f432-332e-4feb-98e4-259d40263722">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kurifindi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kuri</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kuri</item>
+                    <item type="gls" lang="en">gold</item>
+                    <item type="gls" lang="es">oro</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">-findi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=fi'ndi</item>
+                    <item type="gls" lang="en">SH.SHR</item>
+                    <item type="gls" lang="es">SH.SHR</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="8c6a9a0b-6d28-4740-9974-0c5221bc0f96">
+                <item type="txt" lang="con-Latn-EC-x-dureno">shakasingi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">shaka</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">shaka</item>
+                    <item type="gls" lang="en">lack</item>
+                    <item type="gls" lang="es">carecer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=si</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=si</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=DS</item>
+                    <item type="gls" lang="es">=DS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="9c1c8960-6c9e-4099-9224-2e8adc57fd59">
+                <item type="txt" lang="con-Latn-EC-x-dureno">sumbupa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">sumbu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">sumbu</item>
+                    <item type="gls" lang="en">go out</item>
+                    <item type="gls" lang="es">salir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d1a8c1fe-fad3-4f10-af42-07bc3f2dd609">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jipa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ji</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ji</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="gls" lang="es">venir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af80af5a-e394-4baa-aaba-b0194d70edfc">
+                <item type="txt" lang="con-Latn-EC-x-dureno">vani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">vani</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">vani</item>
+                    <item type="gls" lang="en">here</item>
+                    <item type="gls" lang="es">aquí</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="13ba392e-da53-43e7-a6cd-1be855a2773d">
+                <item type="txt" lang="con-Latn-EC-x-dureno">pûshepa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">pûshe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">pûshe</item>
+                    <item type="gls" lang="en">marry</item>
+                    <item type="gls" lang="es">casarse</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">due to lack of money, so I came back here looking for a woman.</item>
+            <item type="gls" lang="es">por falta de cosas, de dinero salí y vine acá consiguiendo mujer </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="0d87bf2a-d871-4d6d-b344-890123e5b218">
+        <phrases>
+          <phrase guid="0d890f0b-e019-4d6c-99be-10ad789efc2e" begin-time-offset="31550" end-time-offset="35300" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word guid="93b4854d-7355-4697-80bd-732b79a446fc">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jungaesûtsû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="es">qué</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="22ae4c7d-380d-4a99-853a-ae100e5eb1bf">
+                <item type="txt" lang="con-Latn-EC-x-dureno">Uperitosû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">Uperito</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">Uperito</item>
+                    <item type="gls" lang="en">Uperito</item>
+                    <item type="gls" lang="es">Uperito</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=sû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='sû</item>
+                    <item type="gls" lang="en">=ATTR</item>
+                    <item type="gls" lang="es">=ATTR</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="e0103bdd-6139-4388-91ac-38bda8741e16">
+                <item type="txt" lang="con-Latn-EC-x-dureno">pûshesûmangi</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">pûshesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">pûshesû</item>
+                    <item type="gls" lang="en">woman</item>
+                    <item type="gls" lang="es">mujer</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f1a1d814-900b-4b16-a3f9-d32ab4f00807">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ipa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">i</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">i</item>
+                    <item type="gls" lang="en">bring</item>
+                    <item type="gls" lang="es">traer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af80af5a-e394-4baa-aaba-b0194d70edfc">
+                <item type="txt" lang="con-Latn-EC-x-dureno">vani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">vani</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">vani</item>
+                    <item type="gls" lang="en">here</item>
+                    <item type="gls" lang="es">aquí</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1a77d199-b3c6-409b-990d-4372150d5d52">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kanse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kanse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kanse</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">live</item>
+                    <item type="gls" lang="es">vivir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I met someone from Uperito and now I live here.</item>
+            <item type="gls" lang="es">traje a una mujer de Uperito y ahora vivo con ella </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="89356f3b-0212-46f3-9aee-1f3ff5574c0e">
+        <phrases>
+          <phrase guid="bd5cbdae-1319-4acd-be6c-4e317f5a0eff" begin-time-offset="35430" end-time-offset="39310" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word guid="94c4ff9a-e5e5-452b-b301-461fba37d0b3">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsumbangi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsun</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="gls" lang="es">hacer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="257c83c4-4dda-4879-b840-33b7fefe6902">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tisekhû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tise</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tise</item>
+                    <item type="gls" lang="en">3.SG</item>
+                    <item type="gls" lang="es">3.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=i'khû</item>
+                    <item type="gls" lang="en">=INST</item>
+                    <item type="gls" lang="es">=INST</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="27a86677-87c1-4330-be92-84e9c3a7b9ae">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="es">qué</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b87f6933-9444-4590-8148-e840d4dfc6b0">
+                <item type="txt" lang="con-Latn-EC-x-dureno">fae</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">fae</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">fae</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="gls" lang="es">uno</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="a37e045a-bbfc-46ee-a71c-85472e2b4e47">
+                <item type="txt" lang="con-Latn-EC-x-dureno">dû'shûma</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">dû'shû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">dû'shû</item>
+                    <item type="gls" lang="en">child</item>
+                    <item type="gls" lang="es">niño</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ba2ee462-e5d1-4f7b-ac02-07bcd65f9a96">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ambianfa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ambian</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">a'mbian</item>
+                    <item type="gls" lang="en">have</item>
+                    <item type="gls" lang="es">tener</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=fa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='fa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=PLS</item>
+                    <item type="gls" lang="es">=PLS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">We have a daughter.</item>
+            <item type="gls" lang="es">y con ella ya tenemos una hija </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="2a3e6ba2-df60-4228-8daf-718df13c7326">
+        <phrases>
+          <phrase guid="3de6d037-5004-4ad8-a1d7-9f1dea395f0c" begin-time-offset="39440" end-time-offset="40710" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word guid="277a9a03-6747-424f-9876-c426a1ef2808">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="gls" lang="en">ANA</item>
+                    <item type="gls" lang="es">ANA</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="61a59358-e850-4b80-9103-30529e1da510">
+                <item type="txt" lang="con-Latn-EC-x-dureno">inisetatsû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">inise</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">inise</item>
+                    <item type="gls" lang="en">name</item>
+                    <item type="gls" lang="es">nombre</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ta</item>
+                    <item type="gls" lang="en">=NEW</item>
+                    <item type="gls" lang="es">=NEW</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="6fd0018a-41ab-41c2-b568-6dc8eadfdbea">
+                <item type="txt" lang="con-Latn-EC-x-dureno">Angely</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">Angely</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">Angely</item>
+                    <item type="gls" lang="en">Angely</item>
+                    <item type="gls" lang="es">Angely</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Her name is Angely.</item>
+            <item type="gls" lang="es">su nombre es Angely </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="9c36ca45-e93d-4ef8-b734-dfa6df2943e4">
+        <phrases>
+          <phrase guid="859c389e-2689-4572-ab78-b0e96fe5edcf" begin-time-offset="40940" end-time-offset="42460" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word guid="85fe2a7b-691b-47c8-a51e-b56aa1c1ee95">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsatsû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="gls" lang="en">ANA</item>
+                    <item type="gls" lang="es">ANA</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5d1e1f6f-b451-4cc2-9d77-f203e914b655">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jañu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jañu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ja'ñu</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="gls" lang="es">ahora</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="4d255a6c-2a72-4d2b-a7d1-0ef0bc33c8f2">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ambian</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ambian</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">a'mbian</item>
+                    <item type="gls" lang="en">have</item>
+                    <item type="gls" lang="es">tener</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b87f6933-9444-4590-8148-e840d4dfc6b0">
+                <item type="txt" lang="con-Latn-EC-x-dureno">fae</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">fae</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">fae</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="gls" lang="es">uno</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="dc99ef9a-4486-46e6-bfc1-7ebc1bc41b26">
+                <item type="txt" lang="con-Latn-EC-x-dureno">año</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">año</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">año</item>
+                    <item type="gls" lang="en">year</item>
+                    <item type="gls" lang="es">año</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">She is 1 year old.</item>
+            <item type="gls" lang="es">ahora ella tiene 1 año </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b8edd4da-726b-45f2-b03c-21d46a899cc7">
+        <phrases>
+          <phrase guid="a5ae8fa0-a761-49b3-9e1b-d00c5cc96197" begin-time-offset="43910" end-time-offset="45030" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word guid="5d8bdcb4-84bc-46f7-b9ff-e6e0c87642d8">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsumba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsun</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="gls" lang="es">hacer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Then,</item>
+            <item type="gls" lang="es">entonces </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="a2f921df-81ee-4956-8ee6-7b405b2810ed">
+        <phrases>
+          <phrase guid="c76bde5d-7748-42c1-8224-78ac698b5356" begin-time-offset="49800" end-time-offset="51380" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word guid="f673f048-f2fb-43ed-a41e-18376a95c594">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsumbakhe</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsun</item>
+                    <item type="gls" lang="en">do</item>
+                    <item type="gls" lang="es">hacer</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=khen</item>
+                    <item type="gls" lang="en">=THUS</item>
+                    <item type="gls" lang="es">=THUS</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">from that,</item>
+            <item type="gls" lang="es">de ahí </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="c1ebd38b-c9ea-4407-9277-2362b3eea307">
+        <phrases>
+          <phrase guid="499265a3-ac38-4acd-825b-d2751c60b823" begin-time-offset="52550" end-time-offset="55470" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word guid="93b4854d-7355-4697-80bd-732b79a446fc">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jungaesûtsû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="es">qué</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="578b673e-bc0f-48eb-b3bb-4bb58877e97b">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ushachuma</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">usha</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">usha</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">be able</item>
+                    <item type="gls" lang="es">poder</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=chu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='chu</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SBRD</item>
+                    <item type="gls" lang="es">=SBRD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d1a8c1fe-fad3-4f10-af42-07bc3f2dd609">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jipa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ji</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ji</item>
+                    <item type="gls" lang="en">come</item>
+                    <item type="gls" lang="es">venir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">when I came back, (The ushachuma is not clear to me, neither the repetitive jungaesu)</item>
+            <item type="gls" lang="es">cuándo vine </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="495dcec0-4a1e-46b8-abcf-ee61e49bdfd9">
+        <phrases>
+          <phrase guid="cc652f5c-d931-4308-8ab5-61006ca353a0" begin-time-offset="56380" end-time-offset="61810" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word guid="af5ec481-1d75-43f5-ba2f-3e3450bb0774">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="93b4854d-7355-4697-80bd-732b79a446fc">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jungaesûtsû</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jungaesû</item>
+                    <item type="gls" lang="en">what</item>
+                    <item type="gls" lang="es">qué</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af5ec481-1d75-43f5-ba2f-3e3450bb0774">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="81d1367b-826c-47b7-8393-ebf3b5861f67">
+                <item type="txt" lang="con-Latn-EC-x-dureno">pûshekhû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">pûshe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">pûshe</item>
+                    <item type="gls" lang="en">wife</item>
+                    <item type="gls" lang="es">esposa</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=i'khû</item>
+                    <item type="gls" lang="en">=INST</item>
+                    <item type="gls" lang="es">=INST</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="11126b96-a038-4019-a9cb-ed1cdd9ff4c6">
+                <item type="txt" lang="con-Latn-EC-x-dureno">phipa</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">phi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">phi</item>
+                    <item type="gls" lang="en">sit</item>
+                    <item type="gls" lang="es">sentarse en</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="86fab63e-5167-4970-8297-183f68045131">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsengi</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tse</item>
+                    <item type="gls" lang="en">ANA.LOC</item>
+                    <item type="gls" lang="es">ANA.LOC</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ngi</item>
+                    <item type="gls" lang="en">=1</item>
+                    <item type="gls" lang="es">=1</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="578b673e-bc0f-48eb-b3bb-4bb58877e97b">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ushachuma</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">usha</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">usha</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">be able</item>
+                    <item type="gls" lang="es">poder</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=chu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='chu</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SBRD</item>
+                    <item type="gls" lang="es">=SBRD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af5ec481-1d75-43f5-ba2f-3e3450bb0774">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ña</item>
+                    <item type="gls" lang="en">1.SG</item>
+                    <item type="gls" lang="es">1.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b7a59525-c12c-4c65-b6df-e2ed7226ad2f">
+                <item type="txt" lang="con-Latn-EC-x-dureno">yayayekhû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">yaya</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">yaya</item>
+                    <item type="gls" lang="en">dad</item>
+                    <item type="gls" lang="es">papá</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ye</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='ye</item>
+                    <item type="gls" lang="en">=HONR</item>
+                    <item type="gls" lang="es">=HONR</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=i'khû</item>
+                    <item type="gls" lang="en">=INST</item>
+                    <item type="gls" lang="es">=INST</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="3221a416-2934-4aba-885b-c12cf793fd2e">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kundasechuma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kundase</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kundase</item>
+                    <item type="gls" lang="en">tell</item>
+                    <item type="gls" lang="es">decir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=chu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='chu</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SBRD</item>
+                    <item type="gls" lang="es">=SBRD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ma</item>
+                    <item type="gls" lang="en">=ACC</item>
+                    <item type="gls" lang="es">=ACC</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b02b0dfe-d6fa-4eb2-9fbe-282eaf64d15b">
+                <item type="txt" lang="con-Latn-EC-x-dureno">injamba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">inja</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">in'jan</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">think</item>
+                    <item type="gls" lang="es">pensar</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ee048a92-cf60-460e-83a2-2635e7b6d23e">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kanse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kanse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kanse</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">HABIT</item>
+                    <item type="gls" lang="es">HABIT</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">I was laying down in bed with my wife when I remembered what my father told me.</item>
+            <item type="gls" lang="es">estaba acostado con mi esposa, ahí recordé de lo que sabía conversar con mi padre</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8fc4ea85-e685-49dc-9c0c-52fddb7d1b13">
+        <phrases>
+          <phrase guid="74900470-3540-4d26-b905-14c7751c0542" begin-time-offset="62180" end-time-offset="65020" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word guid="231dccb5-4a41-4072-b11a-7ca97d5012b7">
+                <item type="txt" lang="con-Latn-EC-x-dureno">pañamba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">paña</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">paña</item>
+                    <item type="gls" lang="en">understand</item>
+                    <item type="gls" lang="es">entender</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="b537b15c-dba7-470c-ade6-00b455e0c3d1">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ûn</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ûn</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ûn</item>
+                    <item type="gls" lang="en">hm</item>
+                    <item type="gls" lang="es">hm</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="271cd917-cf30-4fd4-aa99-6897d576dd6e">
+                <item type="txt" lang="con-Latn-EC-x-dureno">khendi</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khe</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=khen</item>
+                    <item type="gls" lang="en">=THUS</item>
+                    <item type="gls" lang="es">=THUS</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ndi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ti</item>
+                    <item type="gls" lang="en">=INT</item>
+                    <item type="gls" lang="es">=INT</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d179028d-fd56-45d2-a819-761f6601cf6f">
+                <item type="txt" lang="con-Latn-EC-x-dureno">khen</item>
+                <morphemes>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=khen</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=khen</item>
+                    <item type="gls" lang="en">=THUS</item>
+                    <item type="gls" lang="es">=THUS</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="68f9ffdf-0aaa-4db9-b476-e41b1bba986f">
+                <item type="txt" lang="con-Latn-EC-x-dureno">injamba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">inja</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">in'jan</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">know</item>
+                    <item type="gls" lang="es">saber</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="1a77d199-b3c6-409b-990d-4372150d5d52">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kanse</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kanse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kanse</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">live</item>
+                    <item type="gls" lang="es">vivir</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="af80af5a-e394-4baa-aaba-b0194d70edfc">
+                <item type="txt" lang="con-Latn-EC-x-dureno">vani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">vani</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">vani</item>
+                    <item type="gls" lang="en">here</item>
+                    <item type="gls" lang="es">aquí</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">And now I understand how it is and I live here.</item>
+            <item type="gls" lang="es">entonces entiendo que es así y ahora vivo acá </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="52301336-4eae-4f5c-9436-a5e893332aee">
+        <phrases>
+          <phrase guid="cac29599-898b-4307-bf0b-cd32248ce825" begin-time-offset="66860" end-time-offset="68230" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word guid="2b97df1f-3d14-4dce-bde0-7febedab9ab4">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tsa'kamba</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="gls" lang="en">ANA</item>
+                    <item type="gls" lang="es">ANA</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">='ka</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='kan</item>
+                    <item type="gls" lang="en">=CMP</item>
+                    <item type="gls" lang="es">=CMP</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=mba</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=pa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SS</item>
+                    <item type="gls" lang="es">=SS</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">That is why.</item>
+            <item type="gls" lang="es">por eso </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="8a11007f-3906-417a-98d1-ef1302860808">
+        <phrases>
+          <phrase guid="cc63103b-c2df-4479-a35d-3a275fcd6122" begin-time-offset="76710" end-time-offset="78300" speaker="Jorge Mendua " media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word guid="d29ebd5c-f3a1-422a-91ed-ff636a51c51f">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tse'fangayiti</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="gls" lang="en">ANA</item>
+                    <item type="gls" lang="es">ANA</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">='fa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='fa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">=SH.LAT</item>
+                    <item type="gls" lang="es">=SH.LAT</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=nga</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=nga</item>
+                    <item type="gls" lang="en">=DAT</item>
+                    <item type="gls" lang="es">=DAT</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=yi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=yi</item>
+                    <item type="gls" lang="en">=EXCL</item>
+                    <item type="gls" lang="es">=EXCL</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ti</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ti</item>
+                    <item type="gls" lang="en">=INT</item>
+                    <item type="gls" lang="es">=INT</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="5e80efed-83f4-4c07-b86a-d1e464f4b291">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ke</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ke</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ke</item>
+                    <item type="gls" lang="en">2.SG</item>
+                    <item type="gls" lang="es">2.SG</item>
+                    <item type="msa" lang="en">pro</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="95c956d8-7f0f-45aa-836d-166addc08c0c">
+                <item type="txt" lang="con-Latn-EC-x-dureno">kundachu</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">kunda</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">kunda</item>
+                    <item type="gls" lang="en">let know</item>
+                    <item type="gls" lang="es">avisar</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=chu</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='chu</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=SBRD</item>
+                    <item type="gls" lang="es">=SBRD</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Is that it?</item>
+            <item type="gls" lang="es">hasta ahí termina </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="3d1c7099-584c-4e83-a12b-f916b6ae8908">
+        <phrases>
+          <phrase guid="1b4fcbe6-a251-42f4-98f7-9504b24af64e" begin-time-offset="77290" end-time-offset="77640" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word guid="4f6432c8-df45-420d-bb14-715c553314b3">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jûn</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jûn</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jûn</item>
+                    <item type="gls" lang="en">yeah</item>
+                    <item type="gls" lang="es">así es</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">Yes</item>
+            <item type="gls" lang="es">sí</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="ece3ca92-6a16-4ac3-a4bd-126878be1275">
+        <phrases>
+          <phrase guid="9d789c46-9eed-45ab-9f1c-96564a94610f" begin-time-offset="77970" end-time-offset="78560" speaker="Leonel Yiyiguaje" media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word guid="e84ef1e1-39cb-4b7d-9793-90fbd199acc5">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tse'fangayitsû</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tsa</item>
+                    <item type="gls" lang="en">ANA</item>
+                    <item type="gls" lang="es">ANA</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">='fa</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='fa</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">=SH.LAT</item>
+                    <item type="gls" lang="es">=SH.LAT</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=nga</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=nga</item>
+                    <item type="gls" lang="en">=DAT</item>
+                    <item type="gls" lang="es">=DAT</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=yi</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=yi</item>
+                    <item type="gls" lang="en">=EXCL</item>
+                    <item type="gls" lang="es">=EXCL</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=tsû</item>
+                    <item type="gls" lang="en">=3</item>
+                    <item type="gls" lang="es">=3</item>
+                    <item type="msa" lang="en">clmtrx</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">That's it.</item>
+            <item type="gls" lang="es">hasta ahí</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="5074ac81-e804-4830-898d-2c4c5af33db1">
+        <phrases>
+          <phrase guid="39b23d00-5fc1-4779-b31c-f8c01b3524d2" begin-time-offset="79040" end-time-offset="79820" speaker="Jorge Mendua " media-file="5015da21-1cc9-4bb2-bcb5-66784f1f85bb">
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word guid="0f80dbbd-3945-4155-bae6-b2fbf6c0fc05">
+                <item type="txt" lang="con-Latn-EC-x-dureno">ya</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">ya</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">ya</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">2</item>
+                    <item type="gls" lang="en">already</item>
+                    <item type="gls" lang="es">ya</item>
+                    <item type="msa" lang="en">interj</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="0bb1686f-76b5-419c-8332-77f846a77034">
+                <item type="txt" lang="con-Latn-EC-x-dureno">jinge</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">jinge</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">jinge</item>
+                    <item type="gls" lang="en">HORT</item>
+                    <item type="gls" lang="es">HORT</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="96f06698-66ba-4776-8f0f-c6177482260a">
+                <item type="txt" lang="con-Latn-EC-x-dureno">tse'inga</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">tse</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">tse</item>
+                    <item type="gls" lang="en">ANA.LOC</item>
+                    <item type="gls" lang="es">ANA.LOC</item>
+                    <item type="msa" lang="en">dem</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">='i</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">='i</item>
+                    <item type="gls" lang="en">=ADV2</item>
+                    <item type="gls" lang="es">=ADV2</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=nga</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=nga</item>
+                    <item type="gls" lang="en">=DAT</item>
+                    <item type="gls" lang="es">=DAT</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="63f306d1-b836-4de3-92e7-4476ef14c4b6">
+                <item type="txt" lang="con-Latn-EC-x-dureno">khûtsûye</item>
+                <morphemes>
+                  <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">khûtsû</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">khûtsû</item>
+                    <item type="gls" lang="en">stand</item>
+                    <item type="gls" lang="es">pararse</item>
+                    <item type="msa" lang="en">v</item>
+                  </morph>
+                  <morph type="enclitic" guid="d7f713e1-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="con-Latn-EC-x-dureno">=ye</item>
+                    <item type="cf" lang="con-Latn-EC-x-dureno">=ye</item>
+                    <item type="hn" lang="con-Latn-EC-x-dureno">1</item>
+                    <item type="gls" lang="en">=INF</item>
+                    <item type="gls" lang="es">=INF</item>
+                    <item type="msa" lang="en">clphras</item>
+                  </morph>
+                </morphemes>
+              </word>
+            </words>
+            <item type="gls" lang="en">We stop here.</item>
+            <item type="gls" lang="es">ya ahí paramos </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Arial" />
+      <language lang="es" font="Arial" />
+      <language lang="con-Latn-CO" font="Arial" vernacular="true" />
+      <language lang="con-Latn-EC-x-borman" font="Arial" vernacular="true" />
+      <language lang="con-Latn-EC-x-dureno" font="Arial" vernacular="true" />
+    </languages>
+    <media-files offset-type="">
+      <media guid="5015da21-1cc9-4bb2-bcb5-66784f1f85bb" location="" />
+    </media-files>
+  </interlinear-text>
+</document>
