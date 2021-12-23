@@ -198,8 +198,8 @@ export const latexMorphemesTierName = {
 };
 
 export const latexMorphemeTranslationsTierName = {
-	[ENGLISH] : "morpheme translations",
-	[ESPANOL] : "morfemas traducidos",
+	[ENGLISH] : "morpheme glosses",
+	[ESPANOL] : "glosas de morfemas",
 };
 
 export const latexSentenceTranslationsTierName = {
@@ -211,6 +211,12 @@ export const latexSentenceTranslationsTierName = {
 export const tierSelectionConfirmButtonText = {
   [ENGLISH] : "Confirm",
   [ESPANOL] : "Confirmar",
+};
+
+// Text on the LaTeX formatter close button
+export const latexCloseButtonText = {
+  [ENGLISH] : "Close",
+  [ESPANOL] : "Cerrar",
 };
 
 export const latexStoryTitleText = {
