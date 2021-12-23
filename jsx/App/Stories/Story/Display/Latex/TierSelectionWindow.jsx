@@ -9,9 +9,8 @@ import {
   latexMorphemeTranslationsTierName, 
   latexSentenceTranslationsTierName,
   tierSelectionConfirmButtonText,
+  latexCloseButtonText
 } from "~./jsx/App/locale/LocaleConstants.jsx";
-
-const htmlEscape = require("html-es6cape");
 
 // Each ID is a stable identifier that doesn't depend on the current language.
 // The names are textTranslations to show to the user. 
@@ -34,11 +33,13 @@ export default class TierSelectionWindow extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      buttonClicked : false,
+      latexButtonClicked : false,
       tierMap : {}
     }
-
+    // Create and ID for this sentence's LaTeX window. 
+    this.latexResultWindowId = `latex-result-window-${this.props.sentenceId}`; 
     this.handleConfirmButtonClick = this.handleConfirmButtonClick.bind(this);
+    this.closeFormatter = this.closeFormatter.bind(this);
   }
 
   /* Retrieves all the tier names for this story. */
@@ -50,6 +51,20 @@ export default class TierSelectionWindow extends React.Component {
     return tierNames;
   }
 
+  /* Create the header containing all the tier names in one row. */
+  createTiersHeader() {
+    let tiers = this.getTierNames().map((tierName) => (
+      <div className="tierHeaderName">{tierName}</div>
+    ));
+    // Add an empty element in the beginning so that each header is aligned with
+    // the column of radio buttons appearing underneath it. 
+    // The left-most column in the entire selection grid should be the tier name column.
+    return <div className="tiersHeaderSection">
+            <div className="fillerSlot"></div>
+            <div className="tiersHeader">{tiers}</div>
+           </div>;
+  }
+
   /* 
     Displays the tier selection window where the user tells LingView 
     which tier corresponds to which section in the LaTeX example through
@@ -57,12 +72,10 @@ export default class TierSelectionWindow extends React.Component {
   */
   getTierSelectionFormChildren() {
     const children = [];
-    
     // For each LaTeX section that needs to be formatted, create a list of radio buttons
     // so that the user can select which tier is matched to this section.
-    let tierNames = this.getTierNames();
     for (let [latexSectionId, latexSectionName] of Object.entries(latexSectionIdsToNames)) { 
-      children.push(<TierButtonList sentenceId={this.props.sentenceId} tierNames={tierNames} latexSectionId={latexSectionId} latexSectionName={latexSectionName} />);
+      children.push(<TierButtonList sentenceId={this.props.sentenceId} tierNames={this.getTierNames()} latexSectionId={latexSectionId} latexSectionName={latexSectionName} />);
     }
     
     return children;
@@ -93,10 +106,16 @@ export default class TierSelectionWindow extends React.Component {
     // Add the tierMap to the state so that this object can be passed
     // on to the result window.
     this.setState({
-      buttonClicked : true,
+      latexButtonClicked : true,
       tierMap : tierMap
     }); 
 
+  }
+
+  /* Reload the page when the close button is clicked. */
+  closeFormatter(e) {
+    e.preventDefault();
+    window.location.reload();
   }
 
   render() {
@@ -105,19 +124,27 @@ export default class TierSelectionWindow extends React.Component {
           <div className="tierSelectionWrapper">
             <form className="tierSelectionForm" id={this.props.sentenceId}>
               <p><TranslatableText dictionary={latexSelectTiersPromptText} /></p>
-              {this.getTierSelectionFormChildren()}
+              <div className="tierSelectionGrid">
+                {this.createTiersHeader()}
+                {this.getTierSelectionFormChildren()}
+              </div>
             </form>
-            <button class="confirmButton" onClick={this.handleConfirmButtonClick}>
+            <button id="latexFormatterConfirmButton" 
+                    onClick={this.handleConfirmButtonClick}>
               <TranslatableText dictionary={tierSelectionConfirmButtonText} />
             </button>
           </div>
-          
-          {this.state.buttonClicked ? 
+          {this.state.latexButtonClicked ? 
             <LatexResultWindow 
+              id={this.latexResultWindowId}
               sentenceId={this.props.sentenceId} 
               tierMap={this.state.tierMap} 
               sentence={this.props.sentence}
               metadata={this.props.metadata}/> : null}
+          <button id="latexFormatterCloseButton"
+                  onClick={this.closeFormatter}>
+            <TranslatableText dictionary={latexCloseButtonText} />
+          </button>
       </div>
     );
   }; 
