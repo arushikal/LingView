@@ -54,6 +54,16 @@ export const searchPagePromptText = {
   [ESPANOL]: "Buscar en la base de datos:",
 };
 
+export const searchPageNextButtonText = {
+  [ENGLISH] : "Next page",
+  [ESPANOL] : "Página siguiente",
+};
+
+export const searchPagePrevButtonText = {
+  [ENGLISH] : "Previous page",
+  [ESPANOL] : "Página anterior",
+};
+
 // Materials page text
 export const curatedCategoryName = {
   [ENGLISH]: "Curated",
