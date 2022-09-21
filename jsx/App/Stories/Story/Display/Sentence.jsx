@@ -96,9 +96,9 @@ export function SearchSentence({ sentence }) {
         }
   }
 
-  // Get URL:
-  const at = document.URL.indexOf("search");
-  let url = document.URL.substring(0,at);
+	// Get URL:
+	const at = document.URL.indexOf("search");
+	let url = document.URL.substring(0,at);
 
 	// The query index is either start time (for Timed files) 
 	// or sentence id for (Untimed files)
@@ -106,5 +106,5 @@ export function SearchSentence({ sentence }) {
 	url += ("story/" + sentence["story ID"] + "?" + query_index);
 
     // hacky way to introduce a line break (extra <tr> of height 12px)
-	return <div className="searchSentence"><table className="gloss"><thead><tr><td><b> <TranslatableText dictionary={storySearchText} /></b>: {title}</td></tr><tr style={{"height": "12px"}}></tr></thead><tbody>{rowList}</tbody></table><div class="storyLink"><a href={url}><TranslatableText dictionary={storySearchViewStoryText} /></a></div></div>;
+	return <div className="searchSentence"><table className="gloss"><thead><tr><td><b> <TranslatableText dictionary={storySearchText} /></b>: {title}</td></tr><tr style={{"height": "12px"}}></tr></thead><tbody>{rowList}</tbody></table><div class="storyLink"><a target="_blank" href={url}><TranslatableText dictionary={storySearchViewStoryText} /></a></div></div>;
 }

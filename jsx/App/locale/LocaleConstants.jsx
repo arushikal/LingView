@@ -54,6 +54,16 @@ export const searchPagePromptText = {
   [ESPANOL]: "Buscar en la base de datos:",
 };
 
+export const searchPageNextButtonText = {
+  [ENGLISH] : "Next page",
+  [ESPANOL] : "Página siguiente",
+};
+
+export const searchPagePrevButtonText = {
+  [ENGLISH] : "Previous page",
+  [ESPANOL] : "Página anterior",
+};
+
 // Materials page text
 export const curatedCategoryName = {
   [ENGLISH]: "Curated",
@@ -198,8 +208,8 @@ export const latexMorphemesTierName = {
 };
 
 export const latexMorphemeTranslationsTierName = {
-	[ENGLISH] : "morpheme translations",
-	[ESPANOL] : "morfemas traducidos",
+	[ENGLISH] : "morpheme glosses",
+	[ESPANOL] : "glosas de morfemas",
 };
 
 export const latexSentenceTranslationsTierName = {
@@ -211,6 +221,12 @@ export const latexSentenceTranslationsTierName = {
 export const tierSelectionConfirmButtonText = {
   [ENGLISH] : "Confirm",
   [ESPANOL] : "Confirmar",
+};
+
+// Text on the LaTeX formatter close button
+export const latexCloseButtonText = {
+  [ENGLISH] : "Close",
+  [ESPANOL] : "Cerrar",
 };
 
 export const latexStoryTitleText = {

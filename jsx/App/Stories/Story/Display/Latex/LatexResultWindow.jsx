@@ -1,12 +1,5 @@
 import React from 'react';
 import { LatexResultContainer } from "./LatexResultContainer.jsx";
-import { TranslatableText } from "~./jsx/App/locale/TranslatableText.jsx";
-import { 
-  latexSentenceTierName, 
-  latexMorphemesTierName, 
-  latexMorphemeTranslationsTierName, 
-  latexSentenceTranslationsTierName,
-} from "~./jsx/App/locale/LocaleConstants.jsx";
 var htmlEscape = require("html-es6cape");
 
 /*
@@ -168,6 +161,7 @@ export default class LatexResultWindow extends React.Component {
     return (
       <LatexResultContainer 
         sentenceId={this.props.sentenceId} 
+        sentenceUrl={this.getSentenceUrl()}
         processedMaterial={processedMaterial} 
       />
     );
