@@ -3122,5 +3122,110 @@
         "subdivided": true
       }
     }
+  },
+  "56e1ac1b-8899-417c-863d-3ed5079ae611": {
+    "timed": false,
+    "story ID": "56e1ac1b-8899-417c-863d-3ed5079ae611",
+    "title": {
+      "_default": "2022Abr04-MC-Tsanda"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/21/2022",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "thalya mendua",
+      "maruja crollo"
+    ],
+    "xml_file_name": "2022Abr04-MC-Tsanda.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en corsu, lingua corsa": {
+        "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "dd665d14-26fc-427f-92c5-1a72b7166fa0": {
+    "timed": false,
+    "story ID": "dd665d14-26fc-427f-92c5-1a72b7166fa0",
+    "title": {
+      "_default": "2022Feb07_VM_Tururu"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/21/2022",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "thalya mendua",
+      "valerio mendua"
+    ],
+    "xml_file_name": "2022Feb07_VM_Tururu.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en corsu, lingua corsa": {
+        "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34": {
+    "timed": false,
+    "story ID": "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34",
+    "title": {
+      "_default": "2022May10-MC-Kunsi"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "9/21/2022",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "thalya mendua",
+      "maruja criollo"
+    ],
+    "xml_file_name": "2022May10-MC-Kunsi.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en corsu, lingua corsa": {
+        "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
   }
 }
