@@ -3123,41 +3123,6 @@
       }
     }
   },
-  "56e1ac1b-8899-417c-863d-3ed5079ae611": {
-    "timed": false,
-    "story ID": "56e1ac1b-8899-417c-863d-3ed5079ae611",
-    "title": {
-      "_default": "2022Abr04-MC-Tsanda"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "9/21/2022",
-    "source": {
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [
-      "thalya mendua",
-      "maruja crollo"
-    ],
-    "xml_file_name": "2022Abr04-MC-Tsanda.flextext",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "palabra en corsu, lingua corsa": {
-        "subdivided": true
-      },
-      "frase en Español": {
-        "subdivided": false
-      }
-    }
-  },
   "dd665d14-26fc-427f-92c5-1a72b7166fa0": {
     "timed": false,
     "story ID": "dd665d14-26fc-427f-92c5-1a72b7166fa0",
@@ -3222,6 +3187,195 @@
     "tier IDs": {
       "palabra en corsu, lingua corsa": {
         "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "7d34b438-bf2a-41a8-800e-c0aa27ccd4a6": {
+    "timed": false,
+    "story ID": "7d34b438-bf2a-41a8-800e-c0aa27ccd4a6",
+    "title": {
+      "en": "Chicha preparation",
+      "es": "Como preparar chicha",
+      "_default": "20170806_como_preparar_chicha_DEMQ"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "9/25/2022",
+    "source": {
+      "con-Latn-CO": "20170731_como_preparar_chicha_DEMQ",
+      "con-Latn-EC-x-borman": "20170731_como_preparar_chicha_DEMQ",
+      "con-Latn-EC-x-dureno": "20170806_como_preparar_chicha_DEMQ",
+      "en": "20170801_como_preparar_chicha_DEMQ",
+      "es": "20170731_como_preparar_chicha_DEMQ",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Dina E. Mendua Quenama",
+      "Jorge Mendua"
+    ],
+    "xml_file_name": "20170806_como_preparar_chicha_DEMQ.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "a1922f2d-f8be-47eb-8066-120ced3a9eec": {
+    "timed": false,
+    "story ID": "a1922f2d-f8be-47eb-8066-120ced3a9eec",
+    "title": {
+      "en": "Childhood in Zábalo",
+      "es": "La infancia en Zábalo",
+      "_default": "20170804_childhood_in_zabalo_my_tc"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "9/25/2022",
+    "source": {
+      "con-Latn-EC-x-dureno": "20170804_childhood_in_zabalo_my_tc",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Hugo Lucitante",
+      "Tomás Criollo",
+      "Milena Yiyiguaje"
+    ],
+    "xml_file_name": "20170804_childhood_in_zabalo_my_tc.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
+      },
+      "frase en Español": {
+        "subdivided": false
+      }
+    }
+  },
+  "52a5c4e0-fc28-4d20-8de1-f6a48d4461ef": {
+    "timed": false,
+    "story ID": "52a5c4e0-fc28-4d20-8de1-f6a48d4461ef",
+    "title": {
+      "en": "A commentary on language",
+      "es": "Un comentario sobre la lengua",
+      "_default": "20170703_comentario_sobre_lengua_vc"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
+    "date_created": "",
+    "date_uploaded": "9/25/2022",
+    "source": {
+      "con-Latn-CO": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-EC-x-borman": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-EC-x-dureno": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "en": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "es": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Evelin yiyoguaje ",
+      "Vendi Criollo ",
+      "Hugo Lucitante ",
+      "Jorge Mendua ",
+      "Shen Aguinda "
+    ],
+    "xml_file_name": "20170703_comentario_sobre_lengua_vc.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
       },
       "frase en Español": {
         "subdivided": false
