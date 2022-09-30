@@ -3255,8 +3255,8 @@
       "_default": "A commentary on language"
     },
     "media": {
-      "audio": "20170730_comentario_sobre_lengua_VC.mp3",
-      "video": "20170730_comentario_sobre_lengua_VC.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [
       "en",
@@ -3268,7 +3268,11 @@
     "date_created": "",
     "date_uploaded": "9/25/2022",
     "source": {
-      "con-Latn-EC-x-dureno": "20170730_comentario_sobre_lengua_vc",
+      "con-Latn-CO": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-EC-x-borman": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-EC-x-dureno": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "en": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "es": "20170730_comentario_sobre_lengua_vc_(copy)",
       "_default": ""
     },
     "description": "",
