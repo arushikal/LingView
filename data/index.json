@@ -3123,76 +3123,6 @@
       }
     }
   },
-  "dd665d14-26fc-427f-92c5-1a72b7166fa0": {
-    "timed": false,
-    "story ID": "dd665d14-26fc-427f-92c5-1a72b7166fa0",
-    "title": {
-      "_default": "2022Feb07_VM_Tururu"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "9/21/2022",
-    "source": {
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [
-      "thalya mendua",
-      "valerio mendua"
-    ],
-    "xml_file_name": "2022Feb07_VM_Tururu.flextext",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "palabra en corsu, lingua corsa": {
-        "subdivided": true
-      },
-      "frase en Español": {
-        "subdivided": false
-      }
-    }
-  },
-  "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34": {
-    "timed": false,
-    "story ID": "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34",
-    "title": {
-      "_default": "2022May10-MC-Kunsi"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "9/21/2022",
-    "source": {
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [
-      "thalya mendua",
-      "maruja criollo"
-    ],
-    "xml_file_name": "2022May10-MC-Kunsi.flextext",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "palabra en corsu, lingua corsa": {
-        "subdivided": true
-      },
-      "frase en Español": {
-        "subdivided": false
-      }
-    }
-  },
   "7d34b438-bf2a-41a8-800e-c0aa27ccd4a6": {
     "timed": false,
     "story ID": "7d34b438-bf2a-41a8-800e-c0aa27ccd4a6",
@@ -3202,8 +3132,8 @@
       "_default": "Chicha Preparation"
     },
     "media": {
-      "audio": "20170731_como_preparar_chicha_DEMQ.mp3",
-      "video": "20170731_como_preparar_chicha_DEMQ.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [
       "en",
@@ -3265,8 +3195,8 @@
       "_default": "Childhood in Zábalo"
     },
     "media": {
-      "audio": "20170804_childhood_in_zabalo_my_tc.mp3",
-      "video": "20170804_childhood_in_zabalo_my_tc.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [
       "en",
@@ -3325,8 +3255,8 @@
       "_default": "A commentary on language"
     },
     "media": {
-      "audio": "20170730_comentario_sobre_lengua_vc.mp3",
-      "video": "20170730_comentario_sobre_lengua_vc.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [
       "en",
