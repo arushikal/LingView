@@ -3199,11 +3199,11 @@
     "title": {
       "en": "Chicha preparation",
       "es": "Como preparar chicha",
-      "_default": "20170806_como_preparar_chicha_DEMQ"
+      "_default": "Chicha Preparation"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio": "20170731_como_preparar_chicha_DEMQ.mp3",
+      "video": "20170731_como_preparar_chicha_DEMQ.mp4"
     },
     "languages": [
       "en",
@@ -3262,11 +3262,11 @@
     "title": {
       "en": "Childhood in Zábalo",
       "es": "La infancia en Zábalo",
-      "_default": "20170804_childhood_in_zabalo_my_tc"
+      "_default": "Childhood in Zábalo"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio": "20170804_childhood_in_zabalo_my_tc.mp3",
+      "video": "20170804_childhood_in_zabalo_my_tc.mp4"
     },
     "languages": [
       "en",
@@ -3322,11 +3322,11 @@
     "title": {
       "en": "A commentary on language",
       "es": "Un comentario sobre la lengua",
-      "_default": "20170703_comentario_sobre_lengua_vc"
+      "_default": "A commentary on language"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio": "20170730_comentario_sobre_lengua_vc.mp3",
+      "video": "20170730_comentario_sobre_lengua_vc.mp4"
     },
     "languages": [
       "en",
