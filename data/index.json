@@ -3123,20 +3123,33 @@
       }
     }
   },
-  "56e1ac1b-8899-417c-863d-3ed5079ae611": {
+  "7d34b438-bf2a-41a8-800e-c0aa27ccd4a6": {
     "timed": false,
-    "story ID": "56e1ac1b-8899-417c-863d-3ed5079ae611",
+    "story ID": "7d34b438-bf2a-41a8-800e-c0aa27ccd4a6",
     "title": {
-      "_default": "2022Abr04-MC-Tsanda"
+      "en": "Chicha preparation",
+      "es": "Como preparar chicha",
+      "_default": "Chicha Preparation"
     },
     "media": {
       "audio": "",
       "video": ""
     },
-    "languages": [],
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
     "date_created": "",
-    "date_uploaded": "9/21/2022",
+    "date_uploaded": "9/25/2022",
     "source": {
+      "con-Latn-CO": "20170731_como_preparar_chicha_DEMQ",
+      "con-Latn-EC-x-borman": "20170731_como_preparar_chicha_DEMQ",
+      "con-Latn-EC-x-dureno": "20170806_como_preparar_chicha_DEMQ",
+      "en": "20170801_como_preparar_chicha_DEMQ",
+      "es": "20170731_como_preparar_chicha_DEMQ",
       "_default": ""
     },
     "description": "",
@@ -3144,34 +3157,58 @@
     "author": "",
     "glosser": "",
     "speakers": [
-      "thalya mendua",
-      "maruja crollo"
+      "Dina E. Mendua Quenama",
+      "Jorge Mendua"
     ],
-    "xml_file_name": "2022Abr04-MC-Tsanda.flextext",
+    "xml_file_name": "20170806_como_preparar_chicha_DEMQ.flextext",
     "source_filetype": "FLEx",
     "tier IDs": {
-      "palabra en corsu, lingua corsa": {
+      "palabra en a'ingae (ortografía nueva)": {
         "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
       },
       "frase en Español": {
         "subdivided": false
       }
     }
   },
-  "dd665d14-26fc-427f-92c5-1a72b7166fa0": {
+  "a1922f2d-f8be-47eb-8066-120ced3a9eec": {
     "timed": false,
-    "story ID": "dd665d14-26fc-427f-92c5-1a72b7166fa0",
+    "story ID": "a1922f2d-f8be-47eb-8066-120ced3a9eec",
     "title": {
-      "_default": "2022Feb07_VM_Tururu"
+      "en": "Childhood in Zábalo",
+      "es": "La infancia en Zábalo",
+      "_default": "Childhood in Zábalo"
     },
     "media": {
       "audio": "",
       "video": ""
     },
-    "languages": [],
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
     "date_created": "",
-    "date_uploaded": "9/21/2022",
+    "date_uploaded": "9/25/2022",
     "source": {
+      "con-Latn-EC-x-dureno": "20170804_childhood_in_zabalo_my_tc",
       "_default": ""
     },
     "description": "",
@@ -3179,34 +3216,63 @@
     "author": "",
     "glosser": "",
     "speakers": [
-      "thalya mendua",
-      "valerio mendua"
+      "Hugo Lucitante",
+      "Tomás Criollo",
+      "Milena Yiyiguaje"
     ],
-    "xml_file_name": "2022Feb07_VM_Tururu.flextext",
+    "xml_file_name": "20170804_childhood_in_zabalo_my_tc.flextext",
     "source_filetype": "FLEx",
     "tier IDs": {
-      "palabra en corsu, lingua corsa": {
+      "palabra en a'ingae (ortografía nueva)": {
         "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
       },
       "frase en Español": {
         "subdivided": false
       }
     }
   },
-  "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34": {
+  "52a5c4e0-fc28-4d20-8de1-f6a48d4461ef": {
     "timed": false,
-    "story ID": "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34",
+    "story ID": "52a5c4e0-fc28-4d20-8de1-f6a48d4461ef",
     "title": {
-      "_default": "2022May10-MC-Kunsi"
+      "en": "A commentary on language",
+      "es": "Un comentario sobre la lengua",
+      "_default": "A commentary on language"
     },
     "media": {
       "audio": "",
       "video": ""
     },
-    "languages": [],
+    "languages": [
+      "en",
+      "es",
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno"
+    ],
     "date_created": "",
-    "date_uploaded": "9/21/2022",
+    "date_uploaded": "9/25/2022",
     "source": {
+      "con-Latn-CO": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-EC-x-borman": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-EC-x-dureno": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "en": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "es": "20170730_comentario_sobre_lengua_vc_(copy)",
       "_default": ""
     },
     "description": "",
@@ -3214,14 +3280,32 @@
     "author": "",
     "glosser": "",
     "speakers": [
-      "thalya mendua",
-      "maruja criollo"
+      "Evelin yiyoguaje ",
+      "Vendi Criollo ",
+      "Hugo Lucitante ",
+      "Jorge Mendua ",
+      "Shen Aguinda "
     ],
-    "xml_file_name": "2022May10-MC-Kunsi.flextext",
+    "xml_file_name": "20170703_comentario_sobre_lengua_vc.flextext",
     "source_filetype": "FLEx",
     "tier IDs": {
-      "palabra en corsu, lingua corsa": {
+      "palabra en a'ingae (ortografía nueva)": {
         "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "glosa de morfema en Español": {
+        "subdivided": true
+      },
+      "frase en inglés": {
+        "subdivided": false
       },
       "frase en Español": {
         "subdivided": false
