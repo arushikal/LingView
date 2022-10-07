@@ -3320,11 +3320,11 @@
       "con-Latn-EC-x-dureno": "Tururu",
       "en": "Tururu",
       "es": "Tururu",
-      "_default": "20220930_20220207_VM_Tururu"
+      "_default": "Tururu"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio": "2022Feb07-VM-Tururu.mp3",
+      "video": "2022Feb07-VM-Tururu.mp4"
     },
     "languages": [
       "con-Latn-CO",
@@ -3383,11 +3383,11 @@
       "con-Latn-EC-x-dureno": "Kunsi",
       "en": "Kunsi",
       "es": "Kunsi",
-      "_default": "20220930_2022May10_MC_Kunsi"
+      "_default": "Kunsi"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio": "2022May10-MC-Kunsi.mp3",
+      "video": "2022May10-MC-Kunsi.mp4"
     },
     "languages": [
       "con-Latn-CO",
