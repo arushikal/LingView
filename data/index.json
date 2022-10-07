@@ -3311,5 +3311,130 @@
         "subdivided": false
       }
     }
+  },
+  "dd665d14-26fc-427f-92c5-1a72b7166fa0": {
+    "timed": false,
+    "story ID": "dd665d14-26fc-427f-92c5-1a72b7166fa0",
+    "title": {
+      "con-Latn-CO": "Tururu",
+      "con-Latn-EC-x-dureno": "Tururu",
+      "en": "Tururu",
+      "es": "Tururu",
+      "_default": "20220930_20220207_VM_Tururu"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "con-Latn-CO",
+      "con-Latn-EC-x-dureno",
+      "en",
+      "es",
+      "con-Latn-EC-x-borman"
+    ],
+    "date_created": "",
+    "date_uploaded": "10/6/2022",
+    "source": {
+      "con-Latn-CO": "2022Feb07_VM_Tururu",
+      "con-Latn-EC-x-borman": "2022Feb07_VM_Tururu",
+      "con-Latn-EC-x-dureno": "2022Feb07_VM_Tururu",
+      "en": "2022Feb07_VM_Tururu",
+      "es": "2022Feb07_VM_Tururu",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "thalya mendua",
+      "valerio mendua"
+    ],
+    "xml_file_name": "20220930_20220207_VM_Tururu.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
+      },
+      "frase en inglés": {
+        "subdivided": false
+      }
+    }
+  },
+  "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34": {
+    "timed": false,
+    "story ID": "03e33eb6-e68a-4f77-8cd6-60e8fe3ddc34",
+    "title": {
+      "con-Latn-CO": "Kunsi",
+      "con-Latn-EC-x-borman": "Kunsi",
+      "con-Latn-EC-x-dureno": "Kunsi",
+      "en": "Kunsi",
+      "es": "Kunsi",
+      "_default": "20220930_2022May10_MC_Kunsi"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "con-Latn-CO",
+      "con-Latn-EC-x-borman",
+      "con-Latn-EC-x-dureno",
+      "en",
+      "es"
+    ],
+    "date_created": "",
+    "date_uploaded": "10/6/2022",
+    "source": {
+      "con-Latn-CO": "2022May10-MC-Kunsi",
+      "con-Latn-EC-x-borman": "2022May10-MC-Kunsi",
+      "con-Latn-EC-x-dureno": "2022May10-MC-Kunsi",
+      "en": "2022May10-MC-Kunsi",
+      "es": "2022May10-MC-Kunsi",
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "thalya mendua",
+      "maruja criollo"
+    ],
+    "xml_file_name": "20220930_2022May10_MC_Kunsi.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "palabra en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (como en el texto) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "morfema (forma típica) en a'ingae (ortografía nueva)": {
+        "subdivided": true
+      },
+      "glosa de morfema en inglés": {
+        "subdivided": true
+      },
+      "frase en Español": {
+        "subdivided": false
+      },
+      "frase en inglés": {
+        "subdivided": false
+      }
+    }
   }
 }
