@@ -3268,11 +3268,11 @@
     "date_created": "",
     "date_uploaded": "9/25/2022",
     "source": {
-      "con-Latn-CO": "20170730_comentario_sobre_lengua_vc_(copy)",
-      "con-Latn-EC-x-borman": "20170730_comentario_sobre_lengua_vc_(copy)",
-      "con-Latn-EC-x-dureno": "20170730_comentario_sobre_lengua_vc_(copy)",
-      "en": "20170730_comentario_sobre_lengua_vc_(copy)",
-      "es": "20170730_comentario_sobre_lengua_vc_(copy)",
+      "con-Latn-CO": "20170730_comentario_sobre_lengua_VC",
+      "con-Latn-EC-x-borman": "20170730_comentario_sobre_lengua_VC",
+      "con-Latn-EC-x-dureno": "20170730_comentario_sobre_lengua_VC",
+      "en": "20170730_comentario_sobre_lengua_VC",
+      "es": "20170730_comentario_sobre_lengua_VC",
       "_default": ""
     },
     "description": "",
@@ -3320,11 +3320,11 @@
       "con-Latn-EC-x-dureno": "Tururu",
       "en": "Tururu",
       "es": "Tururu",
-      "_default": "20220930_20220207_VM_Tururu"
+      "_default": "Tururu"
     },
     "media": {
-      "audio": "",
-      "video": ""
+      "audio": "2022Feb07-VM-Tururu.mp3",
+      "video": "2022Feb07-VM-Tururu.mp4"
     },
     "languages": [
       "con-Latn-CO",
@@ -3383,7 +3383,7 @@
       "con-Latn-EC-x-dureno": "Kunsi",
       "en": "Kunsi",
       "es": "Kunsi",
-      "_default": "20220930_2022May10_MC_Kunsi"
+      "_default": "Kunsi"
     },
     "media": {
       "audio": "",
