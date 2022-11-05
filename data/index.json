@@ -3255,8 +3255,8 @@
       "_default": "A commentary on language"
     },
     "media": {
-      "audio": "20170730_comentario_sobre_lengua_VC.mp3",
-      "video": "20170730_comentario_sobre_lengua_VC.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [
       "en",
@@ -3336,11 +3336,11 @@
     "date_created": "",
     "date_uploaded": "10/6/2022",
     "source": {
-      "con-Latn-CO": "2022Feb07-VM-Tururu",
-      "con-Latn-EC-x-borman": "2022Feb07-VM-Tururu",
-      "con-Latn-EC-x-dureno": "2022Feb07-VM-Tururu",
-      "en": "2022Feb07-VM-Tururu",
-      "es": "2022Feb07-VM-Tururu",
+      "con-Latn-CO": "2022Feb07_VM_Tururu",
+      "con-Latn-EC-x-borman": "2022Feb07_VM_Tururu",
+      "con-Latn-EC-x-dureno": "2022Feb07_VM_Tururu",
+      "en": "2022Feb07_VM_Tururu",
+      "es": "2022Feb07_VM_Tururu",
       "_default": ""
     },
     "description": "",
@@ -3386,8 +3386,8 @@
       "_default": "Kunsi"
     },
     "media": {
-      "audio": "2022May10-MC-Kunsi.mp3",
-      "video": "2022May10-MC-Kunsi.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [
       "con-Latn-CO",
