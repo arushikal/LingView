@@ -11,7 +11,7 @@ const landingPageJSX = {
       </p>
       <p>
         To customize this welcome text, edit the jsx/App/LandingPage.jsx file,
-        then run webpack for your changes to take effect.{" "}
+        then run webpack for your changes to go into effect.{" "}
       </p>
     </div>
   ),
