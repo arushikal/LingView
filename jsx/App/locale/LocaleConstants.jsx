@@ -252,5 +252,4 @@ export const latexLibraryText = {
 export const footerText = {
   [ENGLISH]: "This website is powered by ",
   [ESPANOL]: "Este sitio web funciona con ",
-  [FRANCAIS]: "Ce site Web est alimenté par ",
 };
